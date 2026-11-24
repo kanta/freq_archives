@@ -43,3 +43,8 @@ archive/2010/freq2010.css
 archive/2010/imgs/main.jpg
 archive/2010/imgs/map.jpg
 archive/css/base.css
+archive/2011-rerefreq/js/libs/modernizr-1.7.min.js
+archive/2009-refreq/css/highslide/graphics/loader.white.gif
+archive/2009-refreq/css/highslide/graphics/zoomout.cur
+archive/2011-rerefreq/js/scroll_background.js
+archive/2011-rerefreq/img/w_logo_anadig1800.png

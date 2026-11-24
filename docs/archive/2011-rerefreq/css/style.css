@@ -1,0 +1,356 @@
+* {
+	margin: 0;
+	padding: 0;
+	
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+}
+
+article,aside,canvas,details,figcaption,figure,
+footer,header,hgroup,menu,nav,section,summary
+{
+	display: block;
+}
+
+
+/*------*/
+/*layout*/
+/*------*/
+
+
+html, body {
+	min-width: 100%;
+	min-height: 100%;
+	background: #fff;
+}
+
+#wrapper{
+	min-width: 100%;
+	min-height: 100%;
+	
+}
+
+#container {
+	min-width: 320px;
+	max-width: 1280px;
+	margin: 0 auto;
+/*	background: url(../img/w_logo_anadig1800.png) no-repeat;*/
+	
+
+}
+
+
+
+.sectionWrapper {
+	width: 100%;
+}
+
+.sectionHeader {
+	background: #fff100;
+	padding: 10px 10pt;
+	margin: 10px 0;
+}
+
+.subContainer {
+	float: left;
+	width: 300px; /*Set default width*/
+	
+}
+
+.subContainer.right {
+	float: right;
+}
+
+.sectionFooter {	
+
+}
+
+
+
+.navInner {
+	height: 38px;
+}
+
+
+.headerInner {
+	height: 100%;
+	margin: 10px;
+	padding: 10px;
+
+}
+
+.artistInner {
+	height: 100%;
+	margin: 10px;
+	padding: 10px;
+	border: dashed 1px #1a0b08;
+}
+
+.accessInner {
+	height: 100%;
+	margin: 10px;
+	padding: 10px;
+	background: #dcdddd;
+}
+
+.contactInner {
+	height: 100%;
+	margin: 10px;
+	padding: 10px;
+	background: #dcdddd;
+}
+
+
+.footerInner {
+	height: 100%;
+	margin: 10px;
+	padding: 10px;
+}
+
+
+
+
+
+
+/*-----*/
+/*float*/
+/*-----*/
+
+.navInner.main li {
+	float: left;
+	width: 33%;
+}
+
+.navInner.aside li {
+	float: right;
+	width: 50%;
+}
+
+
+.navInner ul:after {
+	display: block;
+	clear: both;
+	height: 0;
+	visibility: hidden;
+	content: ".";
+}
+
+
+
+
+.sectionWrapper:after {
+	display: block;
+	clear: both;
+	height: 0;
+	visibility: hidden;
+	content: ".";
+}
+
+.sectionHeader:after {
+	display: block;
+	clear: both;
+	height: 0;
+	visibility: hidden;
+	content: ".";
+}
+
+
+/*---------------------------------------------*/
+/*                    image                    */
+/*---------------------------------------------*/
+
+#flyer img {
+	width: 99%;
+	min-width: 320px;
+	max-width: 1280px;
+	
+	margin: 0 auto;
+	display: block;
+	
+	
+}
+
+.logo img {
+        /*Flexible image size with border*/
+	width: 99%;  /*Took 1% off of the width to prevent IE6 bug*/
+	max-width: 450px;
+	margin: 5% auto;
+	display: block;
+	-ms-interpolation-mode: bicubic; /*prevents image pixelation for IE 6/7 */
+
+}
+
+.artistInner img {
+        /*Flexible image size with border*/
+	width: 99%;  /*Took 1% off of the width to prevent IE6 bug*/
+	margin: 10px auto;
+	display: block;
+	-ms-interpolation-mode: bicubic; /*prevents image pixelation for IE 6/7 */
+
+}
+
+.subContainer iframe {
+        /*Flexible image size with border*/
+	width: 99%;  /*Took 1% off of the width to prevent IE6 bug*/	
+	margin: 5% auto;
+	display: block;
+	-ms-interpolation-mode: bicubic; /*prevents image pixelation for IE 6/7 */
+}
+
+
+
+img.icon {
+}
+
+#credit img {
+	height: 50px;
+	margin: 5px;
+}
+
+
+
+
+
+/*----------------------------------------*/
+/*--------------------------------------------------*/
+/*-----------------------------------------------------------------*/
+
+
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #1a0b08;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: 100;
+}
+
+h1 {	
+	font-size: 16pt;
+	letter-spacing: 10px;
+	margin: 10px 0;
+}
+
+#headerFirst {	
+	font-size: 12pt;
+	margin: 10px 0;
+}
+
+h2 {	
+	margin: 10px;
+	font-size: 12pt;
+	letter-spacing: 10px;
+	display: inline;
+}
+
+.sectionHeader a {
+	float: right;
+	display: block;
+	text-align : center;
+
+  	padding: 0 10px;  
+    cursor: pointer;  
+	color: #1a0b08;
+}
+
+
+h3 {
+	margin: 10px 0;
+}
+
+article {
+
+}
+
+
+
+
+
+.navInner.main ul {
+	height: 100%;
+
+}
+
+.navInner.main li {
+	height: 100%;
+
+	
+}
+
+.navInner.main a {
+	display: block;
+	text-align : center;
+	
+	
+
+  	padding: 10px;  
+    cursor: pointer;  
+	color: #1a0b08;
+}
+
+
+
+
+
+
+header {
+	background: #1a0b08;
+	color: #fff;
+	margin-bottom: 100px;
+}
+
+section {
+	margin-bottom: 50px;
+}
+
+.profile {
+	margin: 10px 0;
+	word-wrap:break-word;
+}
+
+.website {
+	margin: 10px 0;
+
+	word-wrap:break-word;
+
+}
+
+.artistInner a {
+}	
+
+.category {
+	display: inline;
+	background: #fff100;
+}
+
+
+.accessInner p {
+	margin: 20px 0;
+
+}
+
+li {
+ list-style: none;
+}
+
+
+footer {
+	background: #1a0b08;
+	color: #fff;
+}
+
+#credit {
+
+	text-align: right;
+}
+
+
+#copyright {
+	padding: 10pt 0;
+	text-align: center;
+	font-size: 8pt;
+}

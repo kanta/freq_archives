@@ -2,6 +2,7 @@
 """当時のWebサイトの加工版を docs/archive/<id>/ に作る（再実行可能・原本は読み取り専用）。
 
   python3 tools/build_archive.py
+  python3 tools/build_archive.py 2009-refreq   # 指定した回だけ作り直す（原本が一部しか無い環境用）
 
 原本:
   sites/                                   Wayback から取得したファイル（個人情報を含む。公開しない）
@@ -29,6 +30,8 @@ OUT = os.path.join(DOCS, "archive")
 SITES = os.path.join(ROOT, "sites", "design.kyushu-u.ac.jp", "~snlab", "freq")
 SOUND = os.path.join(ROOT, "sites", "sound.jp", "studiofreq", "snlab", "freq")
 WEB2002 = os.path.abspath(os.path.join(ROOT, "..", "freq02", "1119完パケ", "2002_web"))
+REFREQ = os.path.join(ROOT, "sites", "sadmb.com", "event", "refreq")
+REREFREQ = os.path.join(ROOT, "sites", "rerefreq.dominofactory.net")
 MANIFEST = os.path.join(ROOT, "data", "wayback_manifest.csv")
 
 # id: 設定。src は (原本ディレクトリ, 出力先の相対ディレクトリ) の一覧、または files で個別指定
@@ -60,6 +63,12 @@ ARCHIVES = {
                    "snap_of": "2007tokyo/index.html"},
     "2010": {"name": "freq2010", "src": [(SOUND + "/2010", "")], "entry": "index.html",
              "rename": {"index.xhtm": "index.html"}, "snap_of_sound": "2010/index.xhtm"},
+    # 関連イベント（freq 本体ではない）
+    "2009-refreq": {"name": "Re:freq", "src": [(REFREQ, "")], "entry": "index.html",
+                    "extra": [(os.path.join(ROOT, "sites", "sadmb.com", "js", "jquery-1.3.2.min.js"), "js/jquery-1.3.2.min.js")],
+                    "snap": "2023年6月時点の記録"},
+    "2011-rerefreq": {"name": "re:re:freq", "src": [(REREFREQ, "")], "entry": "index.html",
+                      "snap": "2012年3月時点の記録"},
 }
 # 当時のURLの年ディレクトリ → アーカイブID
 YEAR2ID = {"2001": "2001", "2002": "2002", "2003": "2003", "2004": "2004", "2005": "2005",
@@ -109,6 +118,13 @@ PII_RULES = {
         (r"Tel\. 03-3408-9920（九州大学・芸術工学東京サイト）", ""),
     ],
     ("2010", "index.html"): [(r"<p>TEL 092-553-4553\(中村研究室\)</p>", "")],
+    ("2009-refreq", "index.html"): [
+        (r"(?s)イベントに関するお問い合わせは<script.*?</noscript>まで、ご気軽に連絡ください。", "イベントに関するお問い合わせ先は、アーカイブ版では削除しています。"),
+    ],
+    ("2011-rerefreq", "index.html"): [
+        (r"ご予約は氏名、枚数、電話番号を明記の上rerefreq@gmail\.comまでご連絡ください。", "（予約の連絡先はアーカイブ版では削除）"),
+        (r"<br/>tel:092-714-3308", ""),
+    ],
 }
 
 # リンクの個別処理（原本にない／載せないファイルへのリンク）
@@ -123,6 +139,7 @@ LINK_RULES = {
     ],
     ("2004", "index.html"): [(r'href="\./InterCollege2004\.pdf"', f'href="{WB_IC2004}"')],
     ("2004", "profile.html"): [(r'href="\./InterCollege2004\.pdf"', f'href="{WB_IC2004}"')],
+    ("2009-refreq", "index.html"): [(r'src="\.\./\.\./js/jquery-1\.3\.2\.min\.js"', 'src="js/jquery-1.3.2.min.js"')],
     ("2002", "title_e.html"): [(r'href="\.\./index\.html"', 'href="index.html"')],   # 言語選択のルートが無いので日本語版へ
 }
 
@@ -324,13 +341,20 @@ def main():
     manifest = []
     if os.path.exists(MANIFEST):
         manifest = list(csv.DictReader(open(MANIFEST, encoding="utf-8", newline="")))
-    shutil.rmtree(OUT, ignore_errors=True)
+    only = sys.argv[1:]   # 例: python3 tools/build_archive.py 2009-refreq 2011-rerefreq （指定した回だけ作り直す）
+    if only:
+        for aid in only:
+            shutil.rmtree(os.path.join(OUT, aid), ignore_errors=True)
+    else:
+        shutil.rmtree(OUT, ignore_errors=True)
     plans = {aid: plan_files(aid, cfg) for aid, cfg in ARCHIVES.items()}
     planned = {f"archive/{aid}/{rel.replace(os.sep, '/')}" for aid, items in plans.items() for _, rel in items}
     linker = Linker(planned)
 
     count = 0
     for aid, items in plans.items():
+        if only and aid not in only:
+            continue
         cfg = ARCHIVES[aid]
         snap = snapshot_text(aid, manifest)
         for src, rel in items:

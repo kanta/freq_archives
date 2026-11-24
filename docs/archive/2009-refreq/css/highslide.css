@@ -1,0 +1,88 @@
+.highslide {
+	outline: none;
+	text-decoration: none;
+}
+.highslide img {
+	border: 2px solid silver;
+}
+.highslide:hover img {
+	border-color: gray;
+}
+
+.highslide-active-anchor img, .highslide-active-anchor:hover img {
+	border-color: black;
+}
+.highslide-image {
+	border-width: 2px;
+	border-style: solid;
+	border-color: white;
+	background: gray;
+}
+.highslide-wrapper, .rounded-white {
+	background: white;
+}
+.highslide-image-blur {
+}
+.highslide-caption {
+	display: none;
+	border-top: none;
+	font-size: 1em;
+	padding: 5px;
+	background: white;
+}
+.highslide-heading {
+	display: none;
+	font-weight: bold;
+	margin-bottom: 0.4em;
+	background: white;
+}
+.highslide-dimming {
+	position: absolute;
+	background: black;
+}
+.highslide-loading {
+	display: block;
+	color: black;
+	font-size: 9px;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-decoration: none;
+	padding: 3px;
+	border: 1px solid white;
+	background-color: white;
+	padding-left: 22px;
+	background-image: url(highslide/graphics/loader.white.gif);
+	background-repeat: no-repeat;
+	background-position: 3px 1px;
+}
+a.highslide-credits:hover,
+a.highslide-credits:hover i {
+	display: none;
+	color: white;
+	background-color: gray;
+}
+
+.highslide-html {
+    background-color: white;
+}
+.highslide-html-blur {
+}
+.highslide-html-content {
+	position: absolute;
+	display: none;
+}
+
+.highslide-wrapper, .rounded-white {
+	background-color: white;
+}
+.highslide-wrapper .highslide-html-content {
+    width: 670px;
+    padding: 0 5px 5px 5px;
+}
+.highslide-wrapper .highslide-header {
+	padding-bottom: 5px;
+}
+.highslide-close {
+	cursor: url(highslide/graphics/zoomout.cur), pointer;
+}
+

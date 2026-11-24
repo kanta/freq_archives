@@ -40,6 +40,8 @@ for dp, dn, fn in os.walk(DOCS):
                 pii.append((rel, "TEL " + m))
         for m in ATTR.finditer(t):
             v = m.group(1) or m.group(2)
+            if v.startswith("\\"):   # JavaScript 文字列内のエスケープ（url(\"…\")）は対象外
+                continue
             if re.match(r"(https?:|mailto:|javascript:|data:|#|//|ftp:)", v, re.I) or re.search(r"[\[\];(){}]", v):
                 continue
             v0 = urllib.parse.unquote(v.split("#")[0].split("?")[0])

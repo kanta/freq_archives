@@ -683,7 +683,11 @@
    ],
    "wayback_paths": [],
    "assets": [],
-   "archive": null
+   "archive": {
+    "id": "2009-refreq",
+    "entry": "index.html",
+    "label": "Re:freq のWebサイト"
+   }
   },
   {
    "id": "2010",
@@ -822,7 +826,11 @@
    ],
    "wayback_paths": [],
    "assets": [],
-   "archive": null
+   "archive": {
+    "id": "2011-rerefreq",
+    "entry": "index.html",
+    "label": "re:re:freq のWebサイト"
+   }
   },
   {
    "gap": true,
