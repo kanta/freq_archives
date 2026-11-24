@@ -1,0 +1,1703 @@
+[
+{
+"urlkey": "jp,sound)/studiofreq",
+"timestamp": "20071224135906",
+"original": "http://sound.jp:80/studiofreq/",
+"mimetype": "unk",
+"statuscode": "-",
+"digest": "TQTRKK43V4VBPBXHFM6HJGES7OCF4BJL",
+"length": "1937"
+},
+{
+"urlkey": "jp,sound)/studiofreq",
+"timestamp": "20080502190805",
+"original": "http://sound.jp:80/studiofreq/",
+"mimetype": "unk",
+"statuscode": "-",
+"digest": "TQTRKK43V4VBPBXHFM6HJGES7OCF4BJL",
+"length": "1937"
+},
+{
+"urlkey": "jp,sound)/studiofreq",
+"timestamp": "20090210080325",
+"original": "http://sound.jp:80/studiofreq/",
+"mimetype": "unk",
+"statuscode": "-",
+"digest": "VV6DWD6A3MIVQMQ6QVRHYLKXDPDR2DRT",
+"length": "658"
+},
+{
+"urlkey": "jp,sound)/studiofreq",
+"timestamp": "20090412070448",
+"original": "http://sound.jp:80/studiofreq/",
+"mimetype": "unk",
+"statuscode": "-",
+"digest": "VV6DWD6A3MIVQMQ6QVRHYLKXDPDR2DRT",
+"length": "659"
+},
+{
+"urlkey": "jp,sound)/studiofreq",
+"timestamp": "20100119185552",
+"original": "http://sound.jp:80/studiofreq/",
+"mimetype": "unk",
+"statuscode": "-",
+"digest": "VV6DWD6A3MIVQMQ6QVRHYLKXDPDR2DRT",
+"length": "658"
+},
+{
+"urlkey": "jp,sound)/studiofreq",
+"timestamp": "20100605075129",
+"original": "http://sound.jp:80/studiofreq/",
+"mimetype": "unk",
+"statuscode": "-",
+"digest": "VV6DWD6A3MIVQMQ6QVRHYLKXDPDR2DRT",
+"length": "658"
+},
+{
+"urlkey": "jp,sound)/studiofreq",
+"timestamp": "20150512083039",
+"original": "http://sound.jp:80/studiofreq/",
+"mimetype": "text/plain",
+"statuscode": "-",
+"digest": "VV6DWD6A3MIVQMQ6QVRHYLKXDPDR2DRT",
+"length": "657"
+},
+{
+"urlkey": "jp,sound)/studiofreq",
+"timestamp": "20251107151702",
+"original": "http://sound.jp/studiofreq",
+"mimetype": "text/html",
+"statuscode": "301",
+"digest": "DZXOHVCHXJFR6552MCXXH6RDZIPIUVO6",
+"length": "451"
+},
+{
+"urlkey": "jp,sound)/studiofreq",
+"timestamp": "20251111155509",
+"original": "https://sound.jp/studiofreq",
+"mimetype": "unk",
+"statuscode": "404",
+"digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+"length": "240"
+},
+{
+"urlkey": "jp,sound)/studiofreq/concert",
+"timestamp": "20150512083045",
+"original": "http://sound.jp:80/studiofreq/concert/",
+"mimetype": "text/plain",
+"statuscode": "-",
+"digest": "EWCOO46OI6RTT6UL7MATPGDPOGDVZPRU",
+"length": "1029"
+},
+{
+"urlkey": "jp,sound)/studiofreq/s",
+"timestamp": "20251107165541",
+"original": "https://sound.jp/studiofreq/s",
+"mimetype": "unk",
+"statuscode": "404",
+"digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+"length": "243"
+},
+{
+"urlkey": "jp,sound)/studiofreq/s",
+"timestamp": "20251107175652",
+"original": "http://sound.jp/studiofreq/s",
+"mimetype": "text/html",
+"statuscode": "301",
+"digest": "QGZGHK6WHBJRQDBYXIFLPOB5P6FT4EAE",
+"length": "454"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn",
+"timestamp": "20251107154001",
+"original": "http://sound.jp/studiofreq/sn",
+"mimetype": "text/html",
+"statuscode": "301",
+"digest": "Y5FJDAD54WKGL5FM6BAAHX56O2M54X7A",
+"length": "459"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn",
+"timestamp": "20251107175045",
+"original": "https://sound.jp/studiofreq/sn",
+"mimetype": "unk",
+"statuscode": "404",
+"digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+"length": "247"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/critic/egonschiele.html",
+"timestamp": "20130615044155",
+"original": "http://sound.jp:80/studiofreq/sn/critic/egonschiele.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "Y56O44NQDV62P33ZABVZ7HUGFCETVED5",
+"length": "2682"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/critic/jp_onkon00.html",
+"timestamp": "20100107060231",
+"original": "http://sound.jp:80/studiofreq/sn/critic/jp_onkon00.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "4XT64ZNKJPSK6S2V6GD2RK5H4SHJQ46F",
+"length": "4149"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/critic/jp_onkon00.html",
+"timestamp": "20100107060231",
+"original": "http://sound.jp:80/studiofreq/sn/critic/jp_onkon00.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "4XT64ZNKJPSK6S2V6GD2RK5H4SHJQ46F",
+"length": "4149"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/education/20century/fuluorescences.html",
+"timestamp": "20090731010934",
+"original": "http://sound.jp:80/studiofreq/sn/education/20century/fuluorescences.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "WFB4K7HG6YU3BQ7RLQ7XWK6NMD55VDY6",
+"length": "1266"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/education/20century/keyword_2.html",
+"timestamp": "20090731010940",
+"original": "http://sound.jp:80/studiofreq/sn/education/20century/keyword_2.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "YMQ35FQMPJWIKFO5EQ2PRA6CTCQ2VBS7",
+"length": "5372"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/education/20century/schffer.html",
+"timestamp": "20090731010945",
+"original": "http://sound.jp:80/studiofreq/sn/education/20century/schffer.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "ZLG4PUYPSY2KDGKF6DVSFNPMFMJLPIIZ",
+"length": "1258"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/education/20century/structure_1.html",
+"timestamp": "20090731010950",
+"original": "http://sound.jp:80/studiofreq/sn/education/20century/structure_1.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "IJ7J5DIPQTAM5W6RXXTFR2LF4X37VUV3",
+"length": "1365"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/education/20century/structure_2.html",
+"timestamp": "20090731010956",
+"original": "http://sound.jp:80/studiofreq/sn/education/20century/structure_2.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "GW542CKOA2ODYZGNH3QDSNLZ2HRAV242",
+"length": "1282"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/education/20century/studieii.html",
+"timestamp": "20090731011001",
+"original": "http://sound.jp:80/studiofreq/sn/education/20century/studieII.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "ORAERPYME3CMIIJTLSA2QWOGJ6IHBZAO",
+"length": "1272"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/education/eizo/kca_comp_0.html",
+"timestamp": "20160421172206",
+"original": "http://sound.jp:80/studiofreq/sn/education/eizo/kca_comp_0.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "VR7M242AVKJFRVBRHIEVQXCNSG32JLHK",
+"length": "1954"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/education/eizo/kca_comp_1.html",
+"timestamp": "20160420074053",
+"original": "http://sound.jp:80/studiofreq/sn/education/eizo/kca_comp_1.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "K4AH5OJ7V6T4ETCRDQCKVMMHXLANLGZU",
+"length": "1773"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/education/eizo/kca_report.html",
+"timestamp": "20160421172332",
+"original": "http://sound.jp:80/studiofreq/sn/education/eizo/kca_report.html",
+"mimetype": "text/html",
+"statuscode": "404",
+"digest": "3ZGMKJP6OZWEEWBMDHLHBTTWOXJJM7N7",
+"length": "1206"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/education/m_constr/mc00.html",
+"timestamp": "20101208230833",
+"original": "http://sound.jp:80/studiofreq/sn/education/m_constr/mc00.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "HAUL3CXRKHB4MTWRQUCWUVOKVGT3N5ZK",
+"length": "2251"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/education/m_constr/mc06_ex2.html",
+"timestamp": "20101208230839",
+"original": "http://sound.jp:80/studiofreq/sn/education/m_constr/mc06_ex2.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "TYQLU4C5SI3PKKIQHBPOWQP6EUFK6B6V",
+"length": "1545"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/education/m_constr/mc07.html",
+"timestamp": "20101207135430",
+"original": "http://sound.jp:80/studiofreq/sn/education/m_constr/mc07.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "DNDGMO4F3YFNF3C6G4GWB5PIKE5VUZOY",
+"length": "5732"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/education/open_lecture.html",
+"timestamp": "20130215052236",
+"original": "http://sound.jp:80/studiofreq/sn/education/open_lecture.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "GDFYJNXDPPKU66LOOXWSOWJT7P2QBLF6",
+"length": "1862"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/event_news.html",
+"timestamp": "20130216073409",
+"original": "http://sound.jp:80/studiofreq/sn/event_news.html",
+"mimetype": "unk",
+"statuscode": "-",
+"digest": "EZOY5CRFQPTMPQQJU2XST367Y67GGZSO",
+"length": "2568"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/jp_kiyo00.html",
+"timestamp": "20120709223359",
+"original": "http://sound.jp:80/studiofreq/sn/jp_kiyo00.html",
+"mimetype": "text/html",
+"statuscode": "404",
+"digest": "OXFANFJSGBKYEZQBOPZKW63BNO75JHXS",
+"length": "1171"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/kiyo_hmt2.html",
+"timestamp": "20120709223412",
+"original": "http://sound.jp:80/studiofreq/sn/kiyo_hmt2.html",
+"mimetype": "text/html",
+"statuscode": "404",
+"digest": "OXFANFJSGBKYEZQBOPZKW63BNO75JHXS",
+"length": "1170"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/kiyo_kagami.html",
+"timestamp": "20120709223423",
+"original": "http://sound.jp:80/studiofreq/sn/kiyo_kagami.html",
+"mimetype": "text/html",
+"statuscode": "404",
+"digest": "OXFANFJSGBKYEZQBOPZKW63BNO75JHXS",
+"length": "1172"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/news.html",
+"timestamp": "20130213192907",
+"original": "http://sound.jp:80/studiofreq/sn/news.html",
+"mimetype": "unk",
+"statuscode": "-",
+"digest": "LF5M5GDT6R7VR425YCFTJMIJHKI6E47U",
+"length": "1041"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old",
+"timestamp": "20160430043741",
+"original": "http://sound.jp:80/studiofreq/sn/old",
+"mimetype": "text/html",
+"statuscode": "301",
+"digest": "HIZNKDCEF4GCHD4CFADZCUNOKTFBQP7T",
+"length": "360"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old",
+"timestamp": "20160430043741",
+"original": "http://sound.jp:80/studiofreq/sn/old/",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "OJZXRWOG3F67XYK2PMXQ3VN22VJKFN3E",
+"length": "1042"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old",
+"timestamp": "20160502122906",
+"original": "http://sound.jp:80/studiofreq/sn/old/",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "OJZXRWOG3F67XYK2PMXQ3VN22VJKFN3E",
+"length": "1038"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old",
+"timestamp": "20160531080320",
+"original": "http://sound.jp:80/studiofreq/sn/old",
+"mimetype": "text/html",
+"statuscode": "301",
+"digest": "HIZNKDCEF4GCHD4CFADZCUNOKTFBQP7T",
+"length": "358"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old",
+"timestamp": "20160531080320",
+"original": "http://sound.jp:80/studiofreq/sn/old/",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "OJZXRWOG3F67XYK2PMXQ3VN22VJKFN3E",
+"length": "1044"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/20century/fuluorescences.html",
+"timestamp": "20150806015259",
+"original": "http://sound.jp:80/studiofreq/sn/old/20century/fuluorescences.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "SJCN67BM2YNILIBGUB672P36RWDRLOFL",
+"length": "739"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/20century/keyword_1.html",
+"timestamp": "20150805001505",
+"original": "http://sound.jp:80/studiofreq/sn/old/20century/keyword_1.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "WS6CMDUFYHQHCYDCQ52P5JCSTIUSMDAC",
+"length": "8805"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/20century/keyword_2.html",
+"timestamp": "20150806000357",
+"original": "http://sound.jp:80/studiofreq/sn/old/20century/keyword_2.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "3HNB4TP7RCOJIKXQWRRMTK33UOEJUXNZ",
+"length": "4789"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/20century/schffer.html",
+"timestamp": "20150806015304",
+"original": "http://sound.jp:80/studiofreq/sn/old/20century/schffer.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "EHI2TGJTZ7BHIJKQWZZORW3FEM55MNK6",
+"length": "734"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/20century/structure_1.html",
+"timestamp": "20150806015324",
+"original": "http://sound.jp:80/studiofreq/sn/old/20century/structure_1.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "RJ6HZNXMYXRYZ6M6MAR46ZGAHHIQZU5Y",
+"length": "844"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/20century/structure_2.html",
+"timestamp": "20150806015329",
+"original": "http://sound.jp:80/studiofreq/sn/old/20century/structure_2.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "SWHMEBMNQ5NPDHDWS6BQWQ2D7MNP7422",
+"length": "757"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/20century/studieii.html",
+"timestamp": "20150806015355",
+"original": "http://sound.jp:80/studiofreq/sn/old/20century/studieII.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "GL26SWQT5UTDVBI7IX4P6A7V4CZYLDPP",
+"length": "746"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/dvdcd_list.html",
+"timestamp": "20160502072945",
+"original": "http://sound.jp:80/studiofreq/sn/old/dvdcd_list.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "65LRAQSQDSQJBPIBU42XZOVEMYZ5EABJ",
+"length": "1003"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/eng_main.html",
+"timestamp": "20160501211438",
+"original": "http://sound.jp:80/studiofreq/sn/old/eng_main.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "YO6YYXGAXDFHTUYM46A3P52DGYMMTA6P",
+"length": "943"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/geijou/geijo_00.html",
+"timestamp": "20150117110655",
+"original": "http://sound.jp:80/studiofreq/sn/old/geijou/geijo_00.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "EOJDWHEYK6MDL4QRCQBT7MRXNR7FUNPN",
+"length": "1152"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/geijou/geijo_00.html",
+"timestamp": "20160729003333",
+"original": "http://sound.jp:80/studiofreq/sn/old/geijou/geijo_00.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "EOJDWHEYK6MDL4QRCQBT7MRXNR7FUNPN",
+"length": "1153"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/geijou/geijo_00.html",
+"timestamp": "20160928010410",
+"original": "http://sound.jp:80/studiofreq/sn/old/geijou/geijo_00.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "HUULKL2GZGZLD4AW34DNDVVTPHRLC66P",
+"length": "1301"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/geijou/geijo_02.html",
+"timestamp": "20150111051849",
+"original": "http://sound.jp:80/studiofreq/sn/old/geijou/geijo_02.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "R4FDVCP4ERMQSNJT2GO6HGVKH3XYZVNQ",
+"length": "933"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/geijou/geijo_04.html",
+"timestamp": "20160727132035",
+"original": "http://sound.jp:80/studiofreq/sn/old/geijou/geijo_04.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "OZYQ6LWIQEHMXIBHNMMFGCMH64UJHPM4",
+"length": "880"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/geijou/geijo_04.html",
+"timestamp": "20160728140230",
+"original": "http://sound.jp:80/studiofreq/sn/old/geijou/geijo_04.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "OZYQ6LWIQEHMXIBHNMMFGCMH64UJHPM4",
+"length": "878"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/geijou/geijo_04.html",
+"timestamp": "20160828193320",
+"original": "http://sound.jp:80/studiofreq/sn/old/geijou/geijo_04.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "OZYQ6LWIQEHMXIBHNMMFGCMH64UJHPM4",
+"length": "877"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/geijou/geijo_04.html",
+"timestamp": "20161011184110",
+"original": "http://sound.jp:80/studiofreq/sn/old/geijou/geijo_04.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "XPROBE74VSMLBVAPU4RDN33OQLRG4I5B",
+"length": "1019"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/geijou/geijo_in.html",
+"timestamp": "20160729003338",
+"original": "http://sound.jp:80/studiofreq/sn/old/geijou/geijo_in.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "JTO7FVMCF4OQZ3AFHWRQOKFJCRKDZ2UJ",
+"length": "859"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/geijou/geijo_in.html",
+"timestamp": "20160928010414",
+"original": "http://sound.jp:80/studiofreq/sn/old/geijou/geijo_in.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "RYPSDRLOYEJP6LY7BFKXWT3O7Z5TO2QM",
+"length": "999"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/geijou/geijo_off.html",
+"timestamp": "20160729003344",
+"original": "http://sound.jp:80/studiofreq/sn/old/geijou/geijo_off.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "MYQM2GKDWYHQRMNCPUDOKUSLEI5CPSN2",
+"length": "859"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/geijou/geijo_off.html",
+"timestamp": "20160928010711",
+"original": "http://sound.jp:80/studiofreq/sn/old/geijou/geijo_off.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "SFACMR5SAF6BQID47W5V244KGUVJMRLL",
+"length": "1000"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/geijou/geijo_out.html",
+"timestamp": "20160729003407",
+"original": "http://sound.jp:80/studiofreq/sn/old/geijou/geijo_out.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "UTT2S4UOAB4RHANSIKEX5S3VG3DV6T54",
+"length": "859"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/geijou/geijo_out.html",
+"timestamp": "20160928010706",
+"original": "http://sound.jp:80/studiofreq/sn/old/geijou/geijo_out.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "PSQ5KYHAZCHYG24BMI4XVNHGLB246SL7",
+"length": "1003"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/hfg/hfg.html",
+"timestamp": "20160502072950",
+"original": "http://sound.jp:80/studiofreq/sn/old/hfg/hfg.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "QN5SOG7H4YBZUORHICALSQTAZLBJJ4HS",
+"length": "6991"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/hfg/hfg2003.html",
+"timestamp": "20160502073201",
+"original": "http://sound.jp:80/studiofreq/sn/old/hfg/HfG2003.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "IVV2PKS7BEOOWKWRA2XDIKYAHZ2VID6W",
+"length": "3885"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/hyoron/jp_critic.html",
+"timestamp": "20160502073206",
+"original": "http://sound.jp:80/studiofreq/sn/old/hyoron/jp_critic.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "NDXGOM2GD3JR4VFAXQF3FN3WNSWH64WD",
+"length": "1749"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/johocenter/ongakukei.html",
+"timestamp": "20160501231206",
+"original": "http://sound.jp:80/studiofreq/sn/old/johocenter/ongakukei.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "3TFNS5LWMZKBZ6JCMSX2EHPDUQN3FTBQ",
+"length": "12166"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/jp_asia.html",
+"timestamp": "20160502072955",
+"original": "http://sound.jp:80/studiofreq/sn/old/jp_asia.html",
+"mimetype": "text/html",
+"statuscode": "404",
+"digest": "3ZGMKJP6OZWEEWBMDHLHBTTWOXJJM7N7",
+"length": "1206"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/jp_main.html",
+"timestamp": "20160430070104",
+"original": "http://sound.jp:80/studiofreq/sn/old/jp_main.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "VBUYVZPM3MALRBYQBJAYJ2C2P6SVAERM",
+"length": "1679"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/jp_main.html",
+"timestamp": "20160531080601",
+"original": "http://sound.jp:80/studiofreq/sn/old/jp_main.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "VBUYVZPM3MALRBYQBJAYJ2C2P6SVAERM",
+"length": "1680"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/jp_plan.html",
+"timestamp": "20160502073000",
+"original": "http://sound.jp:80/studiofreq/sn/old/jp_plan.html",
+"mimetype": "text/html",
+"statuscode": "404",
+"digest": "3ZGMKJP6OZWEEWBMDHLHBTTWOXJJM7N7",
+"length": "1206"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/jp_works.html",
+"timestamp": "20160501211443",
+"original": "http://sound.jp:80/studiofreq/sn/old/jp_works.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "JP3BYMRRCHCMW4WB72U2AGZ6CKDLF6ZH",
+"length": "2166"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/kaisetsu/dejavu.html",
+"timestamp": "20160501231210",
+"original": "http://sound.jp:80/studiofreq/sn/old/kaisetsu/dejavu.html",
+"mimetype": "text/html",
+"statuscode": "404",
+"digest": "3ZGMKJP6OZWEEWBMDHLHBTTWOXJJM7N7",
+"length": "1210"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/kaisetsu/dream_of_naga.html",
+"timestamp": "20160501231215",
+"original": "http://sound.jp:80/studiofreq/sn/old/kaisetsu/dream_of_naga.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "EPS5AVMBK3VTN7E3BWOQFPYP3AGN7RR6",
+"length": "1688"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/kaisetsu/jp_works.html",
+"timestamp": "20160430070109",
+"original": "http://sound.jp:80/studiofreq/sn/old/kaisetsu/jp_works.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "JP3BYMRRCHCMW4WB72U2AGZ6CKDLF6ZH",
+"length": "2179"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/kaisetsu/jp_works.html",
+"timestamp": "20160531080325",
+"original": "http://sound.jp:80/studiofreq/sn/old/kaisetsu/jp_works.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "JP3BYMRRCHCMW4WB72U2AGZ6CKDLF6ZH",
+"length": "2182"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/kaisetsu/noemata2.html",
+"timestamp": "20160501231221",
+"original": "http://sound.jp:80/studiofreq/sn/old/kaisetsu/noemata2.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "HOBV4DQHXUMEOCRPKZBD7EXJGCQLJ2LV",
+"length": "2240"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/kaisetsu/relief_gallery.html",
+"timestamp": "20160501231226",
+"original": "http://sound.jp:80/studiofreq/sn/old/kaisetsu/relief_gallery.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "MJ5XDTTKCHBOLWOIEWCGMTRGARAD4IXO",
+"length": "2968"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/keireki/jp_biog.html",
+"timestamp": "20160502073213",
+"original": "http://sound.jp:80/studiofreq/sn/old/keireki/jp_biog.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "T7W2RBMMBNY4VMXQT5F65DF6LLKKY6LX",
+"length": "1960"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/keireki/jp_cv.html",
+"timestamp": "20151218103302",
+"original": "http://sound.jp:80/studiofreq/sn/old/keireki/jp_cv.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "A2RNN6Y6ZVX6OSEHSE4BRGH4OVFYHICM",
+"length": "5670"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/keireki/jp_keireki.html",
+"timestamp": "20160502073006",
+"original": "http://sound.jp:80/studiofreq/sn/old/keireki/jp_keireki.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "EP45NYEU6U6E3VEU4GIQOHDKTYUUT2Q7",
+"length": "1014"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/keireki/jp_list.html",
+"timestamp": "20160502073218",
+"original": "http://sound.jp:80/studiofreq/sn/old/keireki/jp_list.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "EUTT2GPM5IHIMGI22H2HXH332XRJYP2X",
+"length": "13922"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/keireki/jp_prof.html",
+"timestamp": "20160502073011",
+"original": "http://sound.jp:80/studiofreq/sn/old/keireki/jp_prof.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "PWQNNN5MMIKUZG4JIUKKN5R2JOPWV6EZ",
+"length": "2793"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/m_constr",
+"timestamp": "20160430070115",
+"original": "http://sound.jp:80/studiofreq/sn/old/m_constr",
+"mimetype": "text/html",
+"statuscode": "301",
+"digest": "O3MJAMDTILRET2XZBTQ6J264VZRLHNIB",
+"length": "367"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/m_constr",
+"timestamp": "20160430070115",
+"original": "http://sound.jp:80/studiofreq/sn/old/m_constr/",
+"mimetype": "text/html",
+"statuscode": "403",
+"digest": "BNV4TQKI4BWVG6AM3IHT6PTQEPC5VVVG",
+"length": "924"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/m_constr",
+"timestamp": "20160502122925",
+"original": "http://sound.jp:80/studiofreq/sn/old/m_constr/",
+"mimetype": "text/html",
+"statuscode": "403",
+"digest": "BNV4TQKI4BWVG6AM3IHT6PTQEPC5VVVG",
+"length": "927"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/m_constr",
+"timestamp": "20160531080606",
+"original": "http://sound.jp:80/studiofreq/sn/old/m_constr",
+"mimetype": "text/html",
+"statuscode": "301",
+"digest": "O3MJAMDTILRET2XZBTQ6J264VZRLHNIB",
+"length": "367"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/m_constr",
+"timestamp": "20160531080606",
+"original": "http://sound.jp:80/studiofreq/sn/old/m_constr/",
+"mimetype": "text/html",
+"statuscode": "403",
+"digest": "BNV4TQKI4BWVG6AM3IHT6PTQEPC5VVVG",
+"length": "924"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/m_constr/mc00.html",
+"timestamp": "20160316122310",
+"original": "http://sound.jp:80/studiofreq/sn/old/m_constr/mc00.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "6IC2YMSI4V7RQRLC5HKJYUMXSDMTVTOI",
+"length": "1792"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/m_constr/mc03.html",
+"timestamp": "20160315122257",
+"original": "http://sound.jp:80/studiofreq/sn/old/m_constr/mc03.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "GBDRRFX2Q47QVYV2WYBGJL5AVMYMR4XR",
+"length": "2689"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/m_constr/mc06_ex2.html",
+"timestamp": "20170317175531",
+"original": "http://sound.jp:80/studiofreq/sn/old/m_constr/mc06_ex2.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "M35NVMG444KAK6E4INPHWPI3NIESRPD5",
+"length": "1249"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/m_constr/mc12.html",
+"timestamp": "20160402100753",
+"original": "http://sound.jp:80/studiofreq/sn/old/m_constr/mc12.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "YQU2KT2KT2GBJCQ3YQB3BUKG62RZB3XR",
+"length": "3799"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/m_constr/mc12_ex1.html",
+"timestamp": "20160404071354",
+"original": "http://sound.jp:80/studiofreq/sn/old/m_constr/mc12_ex1.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "RZTL4GMWUH6Z2O3J2I5F5WN5S6Y3N2I7",
+"length": "858"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/ronbun/ronbun.html",
+"timestamp": "20160501211450",
+"original": "http://sound.jp:80/studiofreq/sn/old/ronbun/ronbun.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "V2F4QLEYAR5IOA6YZMREWFZTWW6HWI4Y",
+"length": "2484"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/tabi/jp_asia.html",
+"timestamp": "20160502073016",
+"original": "http://sound.jp:80/studiofreq/sn/old/tabi/jp_asia.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "M5CBTKGWVTNU2SVF7EIEC4BNA4PM74OL",
+"length": "1458"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/textmain.html",
+"timestamp": "20160501211321",
+"original": "http://sound.jp:80/studiofreq/sn/old/textmain.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "LZLBZSOMCE4G4BCKEZCKL4IB7XAQD3KK",
+"length": "1480"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/old/yokoku/jp_plan.html",
+"timestamp": "20160502073223",
+"original": "http://sound.jp:80/studiofreq/sn/old/yokoku/jp_plan.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "UGY24FBMVRANBE3NN6MAFO4CZPEMJFAD",
+"length": "1100"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/p",
+"timestamp": "20251107151347",
+"original": "http://sound.jp/studiofreq/sn/p",
+"mimetype": "text/html",
+"statuscode": "301",
+"digest": "D2YDJTTUCNNG6NKDENDWXFPE2WWMAXJ5",
+"length": "459"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/p",
+"timestamp": "20251107154545",
+"original": "https://sound.jp/studiofreq/sn/p",
+"mimetype": "unk",
+"statuscode": "404",
+"digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+"length": "245"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/pap",
+"timestamp": "20251107153559",
+"original": "https://sound.jp/studiofreq/sn/pap",
+"mimetype": "unk",
+"statuscode": "404",
+"digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+"length": "250"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/pap",
+"timestamp": "20251107155933",
+"original": "http://sound.jp/studiofreq/sn/pap",
+"mimetype": "text/html",
+"statuscode": "301",
+"digest": "GPH6KFTLZWIYABDWQHAUMOSFKX43DL3D",
+"length": "462"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/paper",
+"timestamp": "20251107151346",
+"original": "https://sound.jp/studiofreq/sn/paper",
+"mimetype": "unk",
+"statuscode": "404",
+"digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+"length": "252"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/paper",
+"timestamp": "20251111144203",
+"original": "http://sound.jp/studiofreq/sn/paper",
+"mimetype": "text/html",
+"statuscode": "301",
+"digest": "7LUTKMLBQFDS576HM3JS23XX32FJPRG4",
+"length": "457"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/papers/t",
+"timestamp": "20251107152027",
+"original": "https://sound.jp/studiofreq/sn/papers/t",
+"mimetype": "unk",
+"statuscode": "404",
+"digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+"length": "251"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/papers/t",
+"timestamp": "20251225115707",
+"original": "http://sound.jp/studiofreq/sn/papers/t",
+"mimetype": "text/html",
+"statuscode": "301",
+"digest": "ZN4PE4UJMDCVV36EBXBZ43S2OILUMPFN",
+"length": "463"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/papers/t03",
+"timestamp": "20251107153111",
+"original": "https://sound.jp/studiofreq/sn/papers/t03",
+"mimetype": "unk",
+"statuscode": "404",
+"digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+"length": "252"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/papers/t03",
+"timestamp": "20251111144124",
+"original": "http://sound.jp/studiofreq/sn/papers/t03",
+"mimetype": "text/html",
+"statuscode": "301",
+"digest": "HCJLEXPYJSNHRPAW2JYNR7M42CHPGUCV",
+"length": "456"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/papers/t03.p",
+"timestamp": "20251107152916",
+"original": "http://sound.jp/studiofreq/sn/papers/t03.p",
+"mimetype": "text/html",
+"statuscode": "301",
+"digest": "H7Z6W55Z2XNPDBHV52VH4KWMTXXQGNMA",
+"length": "466"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/papers/t03.p",
+"timestamp": "20251107153910",
+"original": "https://sound.jp/studiofreq/sn/papers/t03.p",
+"mimetype": "unk",
+"statuscode": "404",
+"digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+"length": "254"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/papers/t03.pos",
+"timestamp": "20251107152511",
+"original": "http://sound.jp/studiofreq/sn/papers/t03.pos",
+"mimetype": "text/html",
+"statuscode": "301",
+"digest": "K3VGE2GHRGVVAPHDGWS7XYSLBVIXXQKN",
+"length": "470"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/papers/t03.pos",
+"timestamp": "20251107164732",
+"original": "https://sound.jp/studiofreq/sn/papers/t03.pos",
+"mimetype": "unk",
+"statuscode": "404",
+"digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+"length": "254"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/papers/t03.poss.m",
+"timestamp": "20251107152025",
+"original": "https://sound.jp/studiofreq/sn/papers/t03.poss.m",
+"mimetype": "unk",
+"statuscode": "404",
+"digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+"length": "261"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/papers/t03.poss.m",
+"timestamp": "20251107154355",
+"original": "http://sound.jp/studiofreq/sn/papers/t03.poss.m",
+"mimetype": "text/html",
+"statuscode": "301",
+"digest": "4A35WW7OXYBEPBZNFJDU33LP5VU3KL35",
+"length": "474"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/papers/t03.poss.mu",
+"timestamp": "20251107153037",
+"original": "http://sound.jp/studiofreq/sn/papers/t03.poss.mu",
+"mimetype": "text/html",
+"statuscode": "301",
+"digest": "JCJBDDUDXWQ7UKRVZ34QCT4V2TLCBQOT",
+"length": "472"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/papers/t03.poss.mu",
+"timestamp": "20251107164007",
+"original": "https://sound.jp/studiofreq/sn/papers/t03.poss.mu",
+"mimetype": "unk",
+"statuscode": "404",
+"digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+"length": "259"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/papers/t03.poss.mus.e",
+"timestamp": "20251107150946",
+"original": "http://sound.jp/studiofreq/sn/papers/t03.poss.mus.e",
+"mimetype": "text/html",
+"statuscode": "301",
+"digest": "QATDDMWH7NLNOCPSGOJ3D4JCYW6H7UIB",
+"length": "476"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/papers/t03.poss.mus.e",
+"timestamp": "20251107153022",
+"original": "https://sound.jp/studiofreq/sn/papers/t03.poss.mus.e",
+"mimetype": "unk",
+"statuscode": "404",
+"digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+"length": "259"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/papers/t03.poss.mus.exp",
+"timestamp": "20251107151359",
+"original": "https://sound.jp/studiofreq/sn/papers/t03.poss.mus.exp",
+"mimetype": "unk",
+"statuscode": "404",
+"digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+"length": "264"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/papers/t03.poss.mus.exp",
+"timestamp": "20251107163214",
+"original": "http://sound.jp/studiofreq/sn/papers/t03.poss.mus.exp",
+"mimetype": "text/html",
+"statuscode": "301",
+"digest": "7PGQRE5I7EVVIMYRSANSMPOHJKEFOCED",
+"length": "476"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/papers/t03.poss.mus.expr",
+"timestamp": "20251107160212",
+"original": "http://sound.jp/studiofreq/sn/papers/t03.poss.mus.expr",
+"mimetype": "text/html",
+"statuscode": "301",
+"digest": "E3VPP6PNHGXLZ6VSAGRQ4LAM2XNYTRFY",
+"length": "477"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/papers/t03.poss.mus.expr",
+"timestamp": "20251111144210",
+"original": "https://sound.jp/studiofreq/sn/papers/t03.poss.mus.expr",
+"mimetype": "unk",
+"statuscode": "404",
+"digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+"length": "267"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/papers/t03.poss.mus.expr.digi.adada.p.pdf",
+"timestamp": "20251107151247",
+"original": "https://sound.jp/studiofreq/sn/papers/t03.poss.mus.expr.digi.adada.p.PDF",
+"mimetype": "unk",
+"statuscode": "404",
+"digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+"length": "276"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/papers/t03.poss.mus.expr.digi.adada.p.pdf",
+"timestamp": "20251107171706",
+"original": "http://sound.jp/studiofreq/sn/papers/t03.poss.mus.expr.digi.adada.p.PDF",
+"mimetype": "text/html",
+"statuscode": "301",
+"digest": "24PZT6SB6UIZBMOY32UIVYOID5WH6LEV",
+"length": "494"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/papers/t_gr_dic.html",
+"timestamp": "20130503051036",
+"original": "http://sound.jp:80/studiofreq/sn/papers/t_gr_dic.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "NPA2WC5MGRG4R3FJSSA5O6QCTM37SEZ5",
+"length": "5143"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/prizes.html",
+"timestamp": "20100107060245",
+"original": "http://sound.jp:80/studiofreq/sn/prizes.html",
+"mimetype": "unk",
+"statuscode": "-",
+"digest": "OATZDWT7O7GJMBQN4MHX2POYOAZ66KKK",
+"length": "3868"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/prizes.html",
+"timestamp": "20100107060245",
+"original": "http://sound.jp:80/studiofreq/sn/prizes.html",
+"mimetype": "unk",
+"statuscode": "200",
+"digest": "OATZDWT7O7GJMBQN4MHX2POYOAZ66KKK",
+"length": "3868"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/publishing.html",
+"timestamp": "20130213192912",
+"original": "http://sound.jp:80/studiofreq/sn/publishing.html",
+"mimetype": "unk",
+"statuscode": "-",
+"digest": "QJXW3MU2RMVYUEWNFCHTKGWSQTYNAATU",
+"length": "744"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/reviewed/kai_hanagatami.html",
+"timestamp": "20151014015229",
+"original": "http://sound.jp:80/studiofreq/sn/reviewed/kai_hanagatami.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "6TUJSAZ75GYV36BCCH23FEXUEW35MOQE",
+"length": "2240"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/reviewed/keihanna02_ws.html",
+"timestamp": "20090719102003",
+"original": "http://sound.jp:80/studiofreq/sn/reviewed/keihanna02_ws.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "YBD6OP4SELCDDNGU34TX4HWD4WETXHCP",
+"length": "5316"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/reviewed/ongakukei.html",
+"timestamp": "20160531171807",
+"original": "http://sound.jp:80/studiofreq/sn/reviewed/ongakukei.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "3TFNS5LWMZKBZ6JCMSX2EHPDUQN3FTBQ",
+"length": "12174"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/reviewed/ongakukei.html",
+"timestamp": "20160703013119",
+"original": "http://sound.jp:80/studiofreq/sn/reviewed/ongakukei.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "3TFNS5LWMZKBZ6JCMSX2EHPDUQN3FTBQ",
+"length": "12164"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/reviewed/ongakukei.html",
+"timestamp": "20160811131912",
+"original": "http://sound.jp:80/studiofreq/sn/reviewed/ongakukei.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "3TFNS5LWMZKBZ6JCMSX2EHPDUQN3FTBQ",
+"length": "12167"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/reviewed/ongakukei.html",
+"timestamp": "20160918192509",
+"original": "http://sound.jp:80/studiofreq/sn/reviewed/ongakukei.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "TUNTYHWLM7ZIXORERPSOOUWQ6GGMDHP4",
+"length": "12337"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/reviewed/sims.html",
+"timestamp": "20170819203905",
+"original": "http://sound.jp:80/studiofreq/sn/reviewed/sims.html",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "EMDS7WQGSPU6SFZVDXAXITGVFQMQJWMX",
+"length": "6181"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/reviewed/sims.html",
+"timestamp": "20240111041355",
+"original": "http://sound.jp/studiofreq/sn/reviewed/sims.html",
+"mimetype": "text/html",
+"statuscode": "301",
+"digest": "QUKEACMZGVUNFFVPFXYPEFM3ZG2VIOTF",
+"length": "524"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/reviewed/sims.html",
+"timestamp": "20240111041356",
+"original": "https://sound.jp/studiofreq/sn/reviewed/sims.html",
+"mimetype": "text/html",
+"statuscode": "404",
+"digest": "FCXI6UKGS33BMJ4M6K67BU63SZXML25V",
+"length": "614"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/social-activity.html",
+"timestamp": "20120705043200",
+"original": "http://sound.jp:80/studiofreq/sn/social-activity.html",
+"mimetype": "unk",
+"statuscode": "-",
+"digest": "D54LSWXF47L4MWRJNSGCPKNQQJKKNLJV",
+"length": "5262"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/works/1992-1.html",
+"timestamp": "20130218095039",
+"original": "http://sound.jp:80/studiofreq/sn/works/1992-1.html",
+"mimetype": "unk",
+"statuscode": "-",
+"digest": "HMMTKDJAWJLWTPKJLHLHLGMH3L3VWHUQ",
+"length": "857"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/works/1992-2.html",
+"timestamp": "20130218100346",
+"original": "http://sound.jp:80/studiofreq/sn/works/1992-2.html",
+"mimetype": "unk",
+"statuscode": "-",
+"digest": "DDZ4NY23O6Q47FDHRFVAKBLBAGZ3AQLU",
+"length": "935"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/works/1995-3.html",
+"timestamp": "20130218091921",
+"original": "http://sound.jp:80/studiofreq/sn/works/1995-3.html",
+"mimetype": "unk",
+"statuscode": "-",
+"digest": "7J565Y2Q6OVW6Q2A3DJCZMMUKLQDKAOZ",
+"length": "982"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/works/1996-2.html",
+"timestamp": "20130218094108",
+"original": "http://sound.jp:80/studiofreq/sn/works/1996-2.html",
+"mimetype": "unk",
+"statuscode": "-",
+"digest": "O5PLDSAZQNALJF2572KWW4SPTS6MVHAC",
+"length": "691"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/works/1996-3.html",
+"timestamp": "20130218094524",
+"original": "http://sound.jp:80/studiofreq/sn/works/1996-3.html",
+"mimetype": "unk",
+"statuscode": "-",
+"digest": "5WY5M5GC7RGABG5CVRIQZXJS5IZ47JMK",
+"length": "826"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/works/1999-3.html",
+"timestamp": "20130218095148",
+"original": "http://sound.jp:80/studiofreq/sn/works/1999-3.html",
+"mimetype": "unk",
+"statuscode": "-",
+"digest": "3NT3DBKAGYPUCZP3U5J7PPSWARWCM22X",
+"length": "750"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/works/2003-2.html",
+"timestamp": "20130218095748",
+"original": "http://sound.jp:80/studiofreq/sn/works/2003-2.html",
+"mimetype": "unk",
+"statuscode": "-",
+"digest": "7SWBIA3WK27QX3THAYMAHOPWR3QPXRR2",
+"length": "666"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/works/genres.html",
+"timestamp": "20130213192938",
+"original": "http://sound.jp:80/studiofreq/sn/works/genres.html",
+"mimetype": "unk",
+"statuscode": "-",
+"digest": "ULTCDWN4NKW5LDLGIRZJABKZQRBBYHYC",
+"length": "2739"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/works/new_works.html",
+"timestamp": "20091128100718",
+"original": "http://sound.jp:80/studiofreq/sn/works/new_works.html",
+"mimetype": "unk",
+"statuscode": "-",
+"digest": "S5PKDA6U5YON5QLJQMUGDOHICHQX7XOD",
+"length": "3013"
+},
+{
+"urlkey": "jp,sound)/studiofreq/sn/works/new_works.html",
+"timestamp": "20130216073253",
+"original": "http://sound.jp:80/studiofreq/sn/works/new_works.html",
+"mimetype": "unk",
+"statuscode": "-",
+"digest": "S5PKDA6U5YON5QLJQMUGDOHICHQX7XOD",
+"length": "3015"
+},
+{
+"urlkey": "jp,sound)/studiofreq/snlab",
+"timestamp": "20100107060328",
+"original": "http://sound.jp:80/studiofreq/snlab",
+"mimetype": "text/html",
+"statuscode": "301",
+"digest": "A4UIL7KSKSCMXHULG7LVXFEB4WFWH5BD",
+"length": "391"
+},
+{
+"urlkey": "jp,sound)/studiofreq/snlab",
+"timestamp": "20100107060328",
+"original": "http://sound.jp:80/studiofreq/snlab",
+"mimetype": "text/html",
+"statuscode": "301",
+"digest": "A4UIL7KSKSCMXHULG7LVXFEB4WFWH5BD",
+"length": "391"
+},
+{
+"urlkey": "jp,sound)/studiofreq/snlab",
+"timestamp": "20100107060328",
+"original": "http://sound.jp:80/studiofreq/snlab/",
+"mimetype": "unk",
+"statuscode": "-",
+"digest": "JMLPTN5DGZ6EYL5P4ATBASA2DY3LDITR",
+"length": "10291"
+},
+{
+"urlkey": "jp,sound)/studiofreq/snlab",
+"timestamp": "20100107060328",
+"original": "http://sound.jp:80/studiofreq/snlab/",
+"mimetype": "unk",
+"statuscode": "200",
+"digest": "JMLPTN5DGZ6EYL5P4ATBASA2DY3LDITR",
+"length": "10291"
+},
+{
+"urlkey": "jp,sound)/studiofreq/snlab",
+"timestamp": "20150511002656",
+"original": "http://sound.jp:80/studiofreq/snlab",
+"mimetype": "text/html",
+"statuscode": "301",
+"digest": "A4UIL7KSKSCMXHULG7LVXFEB4WFWH5BD",
+"length": "358"
+},
+{
+"urlkey": "jp,sound)/studiofreq/snlab",
+"timestamp": "20150511002656",
+"original": "http://sound.jp:80/studiofreq/snlab/",
+"mimetype": "text/plain",
+"statuscode": "-",
+"digest": "XK6QSM7JAF5ZBLHRDZBJACVFZN6DLQ4Y",
+"length": "10590"
+},
+{
+"urlkey": "jp,sound)/studiofreq/snlab",
+"timestamp": "20150512031532",
+"original": "http://sound.jp:80/studiofreq/snlab/",
+"mimetype": "text/plain",
+"statuscode": "-",
+"digest": "XK6QSM7JAF5ZBLHRDZBJACVFZN6DLQ4Y",
+"length": "10589"
+},
+{
+"urlkey": "jp,sound)/studiofreq/snlab",
+"timestamp": "20230805141652",
+"original": "http://sound.jp/studiofreq/snlab/",
+"mimetype": "text/html",
+"statuscode": "301",
+"digest": "5ILRA5H4SZMMPF72CBGFGKRSBJAN2ECJ",
+"length": "368"
+},
+{
+"urlkey": "jp,sound)/studiofreq/snlab",
+"timestamp": "20230805142345",
+"original": "https://sound.jp/studiofreq/snlab/",
+"mimetype": "text/html",
+"statuscode": "404",
+"digest": "FCXI6UKGS33BMJ4M6K67BU63SZXML25V",
+"length": "383"
+},
+{
+"urlkey": "jp,sound)/studiofreq/snlab/brush/20040517watanabe.pdf",
+"timestamp": "20240715193846",
+"original": "http://sound.jp/studiofreq/snlab/brush/20040517watanabe.pdf",
+"mimetype": "text/html",
+"statuscode": "301",
+"digest": "6CI5STWWFUDTBCCNPY6Y42PUZKOMJ7SE",
+"length": "336"
+},
+{
+"urlkey": "jp,sound)/studiofreq/snlab/brush/20040517watanabe.pdf",
+"timestamp": "20240715200739",
+"original": "https://sound.jp/studiofreq/snlab/brush/20040517watanabe.pdf",
+"mimetype": "text/html",
+"statuscode": "404",
+"digest": "FCXI6UKGS33BMJ4M6K67BU63SZXML25V",
+"length": "377"
+},
+{
+"urlkey": "jp,sound)/studiofreq/snlab/ex",
+"timestamp": "20150512083110",
+"original": "http://sound.jp:80/studiofreq/snlab/eX",
+"mimetype": "text/html",
+"statuscode": "301",
+"digest": "K2U2K3N6Q6ISM5MC4EOXNSGIFY354ORU",
+"length": "359"
+},
+{
+"urlkey": "jp,sound)/studiofreq/snlab/ex",
+"timestamp": "20150512083110",
+"original": "http://sound.jp:80/studiofreq/snlab/eX/",
+"mimetype": "text/plain",
+"statuscode": "-",
+"digest": "6QZPAD55VYOZ33BEJXTOKGBUDS2NLPYZ",
+"length": "183"
+},
+{
+"urlkey": "jp,sound)/studiofreq/snlab/freq/2009/freq09.html",
+"timestamp": "20150513023244",
+"original": "http://sound.jp:80/studiofreq/snlab/freq/2009/freq09.html",
+"mimetype": "text/plain",
+"statuscode": "-",
+"digest": "DIH3S3FUECQQ3WYP7WBTGCDLWVSC5J2T",
+"length": "1288"
+},
+{
+"urlkey": "jp,sound)/studiofreq/snlab/freq/2009/freq09.html",
+"timestamp": "20230805122954",
+"original": "http://sound.jp/studiofreq/snlab/freq/2009/freq09.html",
+"mimetype": "text/html",
+"statuscode": "301",
+"digest": "FS4APOCAOMDPDJTUULBEO45EELTWFVSA",
+"length": "383"
+},
+{
+"urlkey": "jp,sound)/studiofreq/snlab/freq/2009/freq09.html",
+"timestamp": "20230805153653",
+"original": "https://sound.jp/studiofreq/snlab/freq/2009/freq09.html",
+"mimetype": "text/html",
+"statuscode": "404",
+"digest": "FCXI6UKGS33BMJ4M6K67BU63SZXML25V",
+"length": "399"
+},
+{
+"urlkey": "jp,sound)/studiofreq/snlab/freq/2010/index.xhtm",
+"timestamp": "20150513024320",
+"original": "http://sound.jp:80/studiofreq/snlab/freq/2010/index.xhtm",
+"mimetype": "text/html",
+"statuscode": "200",
+"digest": "U2PP3T5OY5HMPCSZSLUPFAXCDI5ZCGHB",
+"length": "2421"
+},
+{
+"urlkey": "jp,sound)/studiofreq/snlab/index-e.shtml",
+"timestamp": "20091109055603",
+"original": "http://sound.jp:80/studiofreq/snlab/index-e.shtml",
+"mimetype": "text/html",
+"statuscode": "404",
+"digest": "HRZRW4WGMLOKSLX3JGZKKPSROL3MXHPD",
+"length": "2934"
+},
+{
+"urlkey": "jp,sound)/studiofreq/snlab/index-e.shtml",
+"timestamp": "20101129181625",
+"original": "http://sound.jp:80/studiofreq/snlab/index-e.shtml",
+"mimetype": "text/html",
+"statuscode": "404",
+"digest": "3H6RA4QE6PVFUOV3OHASJWKNMX7ZLN6N",
+"length": "2760"
+},
+{
+"urlkey": "jp,sound)/studiofreq/snlab/index.html",
+"timestamp": "20091109055610",
+"original": "http://sound.jp:80/studiofreq/snlab/index.html",
+"mimetype": "unk",
+"statuscode": "-",
+"digest": "JMLPTN5DGZ6EYL5P4ATBASA2DY3LDITR",
+"length": "10293"
+},
+{
+"urlkey": "jp,sound)/studiofreq/snlab/index.html",
+"timestamp": "20101129181735",
+"original": "http://sound.jp:80/studiofreq/snlab/index.html",
+"mimetype": "unk",
+"statuscode": "-",
+"digest": "XK6QSM7JAF5ZBLHRDZBJACVFZN6DLQ4Y",
+"length": "10587"
+},
+{
+"urlkey": "jp,sound)/studiofreq/snlab/j/access.html",
+"timestamp": "20101129181756",
+"original": "http://sound.jp:80/studiofreq/snlab/j/access.html",
+"mimetype": "unk",
+"statuscode": "-",
+"digest": "3GK4TCOT7DNS6T7KZUIZDK2U6R7BYBDP",
+"length": "1531"
+},
+{
+"urlkey": "jp,sound)/studiofreq/snlab/j/ante-schedule.shtml",
+"timestamp": "20091108055949",
+"original": "http://sound.jp:80/studiofreq/snlab/j/ante-schedule.shtml",
+"mimetype": "text/plain",
+"statuscode": "200",
+"digest": "BALB3M6GF7XFHAP4PY7KCAIT7VWRNZ5O",
+"length": "3338"
+},
+{
+"urlkey": "jp,sound)/studiofreq/snlab/j/cfp.html",
+"timestamp": "20101127182551",
+"original": "http://sound.jp:80/studiofreq/snlab/j/CFP.html",
+"mimetype": "unk",
+"statuscode": "-",
+"digest": "PQTAFPYVF23QWJTM7ZX3E6KNSFGY4B23",
+"length": "6580"
+},
+{
+"urlkey": "jp,sound)/studiofreq/snlab/j/cfp.html",
+"timestamp": "20101128212552",
+"original": "http://sound.jp:80/studiofreq/snlab/j/CFP.html",
+"mimetype": "unk",
+"statuscode": "-",
+"digest": "PQTAFPYVF23QWJTM7ZX3E6KNSFGY4B23",
+"length": "6579"
+},
+{
+"urlkey": "jp,sound)/studiofreq/snlab/j/etudes.html",
+"timestamp": "20101129182420",
+"original": "http://sound.jp:80/studiofreq/snlab/j/etudes.html",
+"mimetype": "unk",
+"statuscode": "-",
+"digest": "UKNDESOQGCYR5BTMCWMKALRPJNF4DOX2",
+"length": "3653"
+},
+{
+"urlkey": "jp,sound)/studiofreq/snlab/j/library.html",
+"timestamp": "20101129181812",
+"original": "http://sound.jp:80/studiofreq/snlab/j/library.html",
+"mimetype": "unk",
+"statuscode": "-",
+"digest": "SLGQU42GB2K22W4SPE4CI5YZCTC3HQQ2",
+"length": "1203"
+},
+{
+"urlkey": "jp,sound)/studiofreq/snlab/j/link.html",
+"timestamp": "20101202081215",
+"original": "http://sound.jp:80/studiofreq/snlab/j/link.html",
+"mimetype": "unk",
+"statuscode": "-",
+"digest": "WCYZGCUC5YZLFZROFZHO7JA3QABPGOIM",
+"length": "3460"
+},
+{
+"urlkey": "jp,sound)/studiofreq/snlab/j/litteraire.html",
+"timestamp": "20101130175929",
+"original": "http://sound.jp:80/studiofreq/snlab/j/litteraire.html",
+"mimetype": "unk",
+"statuscode": "-",
+"digest": "ZCKNOAWTOKYPXAGC4G6S4QMN56OCUJB5",
+"length": "4316"
+},
+{
+"urlkey": "jp,sound)/studiofreq/snlab/j/litteraire.html",
+"timestamp": "20150519011019",
+"original": "http://sound.jp:80/studiofreq/snlab/j/litteraire.html",
+"mimetype": "text/plain",
+"statuscode": "-",
+"digest": "ZCKNOAWTOKYPXAGC4G6S4QMN56OCUJB5",
+"length": "4320"
+},
+{
+"urlkey": "jp,sound)/studiofreq/snlab/j/member.html",
+"timestamp": "20101129182452",
+"original": "http://sound.jp:80/studiofreq/snlab/j/member.html",
+"mimetype": "unk",
+"statuscode": "-",
+"digest": "RO7IPML3PYJECIQFAHSB7KCJZX23HG7O",
+"length": "4457"
+},
+{
+"urlkey": "jp,sound)/studiofreq/snlab/j/member.html",
+"timestamp": "20170822233952",
+"original": "http://sound.jp:80/studiofreq/snlab/j/member.html",
+"mimetype": "text/plain",
+"statuscode": "-",
+"digest": "RO7IPML3PYJECIQFAHSB7KCJZX23HG7O",
+"length": "4460"
+},
+{
+"urlkey": "jp,sound)/studiofreq/snlab/j/member.html",
+"timestamp": "20220518131301",
+"original": "http://sound.jp/studiofreq/snlab/j/member.html",
+"mimetype": "text/html",
+"statuscode": "301",
+"digest": "RTZSHG7VGYP5BJ3VLIYDN2BOJC46GHGZ",
+"length": "613"
+},
+{
+"urlkey": "jp,sound)/studiofreq/snlab/j/member.html",
+"timestamp": "20220518131302",
+"original": "https://sound.jp/studiofreq/snlab/j/member.html",
+"mimetype": "text/html",
+"statuscode": "404",
+"digest": "FCXI6UKGS33BMJ4M6K67BU63SZXML25V",
+"length": "700"
+},
+{
+"urlkey": "jp,sound)/studiofreq/snlab/j/member.html",
+"timestamp": "20230412125747",
+"original": "http://sound.jp/studiofreq/snlab/j/member.html",
+"mimetype": "text/html",
+"statuscode": "301",
+"digest": "RTZSHG7VGYP5BJ3VLIYDN2BOJC46GHGZ",
+"length": "523"
+},
+{
+"urlkey": "jp,sound)/studiofreq/snlab/j/member.html",
+"timestamp": "20230416134354",
+"original": "https://sound.jp/studiofreq/snlab/j/member.html",
+"mimetype": "text/html",
+"statuscode": "404",
+"digest": "FCXI6UKGS33BMJ4M6K67BU63SZXML25V",
+"length": "613"
+},
+{
+"urlkey": "jp,sound)/studiofreq/snlab/j/member.html",
+"timestamp": "20241203170808",
+"original": "http://sound.jp/studiofreq/snlab/j/member.html",
+"mimetype": "text/html",
+"statuscode": "301",
+"digest": "RTZSHG7VGYP5BJ3VLIYDN2BOJC46GHGZ",
+"length": "281"
+},
+{
+"urlkey": "jp,sound)/studiofreq/snlab/j/member.html",
+"timestamp": "20250413033709",
+"original": "https://sound.jp/studiofreq/snlab/j/member.html",
+"mimetype": "text/html",
+"statuscode": "404",
+"digest": "N2HOC5W4E63MLF5J2V4DG53BUJ75GNKR",
+"length": "931"
+},
+{
+"urlkey": "jp,sound)/studiofreq/snlab/j/schedule.html",
+"timestamp": "20101129182459",
+"original": "http://sound.jp:80/studiofreq/snlab/j/schedule.html",
+"mimetype": "unk",
+"statuscode": "-",
+"digest": "WOJ2Q3NYYYWGX3IPS4BHEY2IP7WY5OVE",
+"length": "1431"
+},
+{
+"urlkey": "jp,sound)/studiofreq/snlab/j/seminar07.html",
+"timestamp": "20101129181831",
+"original": "http://sound.jp:80/studiofreq/snlab/j/seminar07.html",
+"mimetype": "unk",
+"statuscode": "-",
+"digest": "WTIOXGPYMB7SP6B32I5X3THADCDO6U4A",
+"length": "707"
+},
+{
+"urlkey": "jp,sound)/studiofreq/snlab/j/seminar07.html",
+"timestamp": "20150519011042",
+"original": "http://sound.jp:80/studiofreq/snlab/j/seminar07.html",
+"mimetype": "text/plain",
+"statuscode": "-",
+"digest": "WTIOXGPYMB7SP6B32I5X3THADCDO6U4A",
+"length": "708"
+},
+{
+"urlkey": "jp,sound)/studiofreq/snlab/j/trash.html",
+"timestamp": "20101129181836",
+"original": "http://sound.jp:80/studiofreq/snlab/j/trash.html",
+"mimetype": "unk",
+"statuscode": "-",
+"digest": "SLVPX663RYS5ESS65SQSUOSZVC3AJ34E",
+"length": "1978"
+}
+]

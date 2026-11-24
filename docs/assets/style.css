@@ -1,0 +1,79 @@
+/* freq archive — 配色は 2001年サイトの #666666 / #0099FF / #FF6600 を借用。
+   本文領域を暗いグレー(#262626)にして、リンク色のコントラスト比 4.5:1 以上を確保 */
+:root{
+  --frame:#666666;
+  --panel:#262626;
+  --text:#f0f0f0;
+  --muted:#c4c4c4;
+  --link:#0099FF;
+  --accent:#FF6600;
+  --rule:#4a4a4a;
+}
+*{box-sizing:border-box}
+html{font-size:100%}
+body{
+  margin:0;background:var(--frame);color:var(--text);
+  font-family:-apple-system,BlinkMacSystemFont,"Hiragino Sans","Hiragino Kaku Gothic ProN","Yu Gothic",Meiryo,"Segoe UI",sans-serif;
+  line-height:1.8;
+}
+a{color:var(--link);text-decoration:underline;text-underline-offset:.2em}
+a:hover,a:focus-visible{color:var(--accent)}
+.site-header{padding:.9rem 1.25rem;border-bottom:4px solid var(--accent)}
+.site-name{color:#fff;font-weight:700;font-size:1.1rem;letter-spacing:.04em;text-decoration:none}
+.site-name:hover{color:#fff;text-decoration:underline}
+main{max-width:46rem;margin:1.5rem auto 3rem;background:var(--panel);padding:1.5rem 1.5rem 2rem}
+h1{font-size:1.6rem;line-height:1.4;margin:.2rem 0 .3rem}
+h2{font-size:1.15rem;color:var(--accent);margin:2rem 0 .5rem;padding-bottom:.25rem;border-bottom:1px solid var(--rule)}
+h3{font-size:1.05rem;margin:1.2rem 0 .3rem}
+.lead{color:var(--muted)}
+.crumb{margin:0 0 1rem;font-size:.9rem}
+.year{margin:0 0 1rem;color:var(--accent);font-weight:700;font-size:1.1rem;letter-spacing:.06em}
+.badge,.gap{display:inline-block;border:1px solid var(--accent);color:var(--accent);font-size:.75rem;
+  padding:0 .5em;border-radius:3px;vertical-align:middle;font-weight:400;line-height:1.6}
+
+/* index */
+.index{list-style:none;margin:1.5rem 0 0;padding:0;border-top:1px solid var(--rule)}
+.index li{display:grid;grid-template-columns:5.5rem 1fr auto;gap:.3rem 1rem;align-items:baseline;padding:.7rem 0;border-bottom:1px solid var(--rule)}
+.index .links{display:grid;grid-template-columns:2.6rem 6.2rem;gap:0 .5rem;font-size:.9rem;white-space:nowrap}
+.index .y{color:var(--accent);font-weight:700;letter-spacing:.04em;font-variant-numeric:tabular-nums}
+.index .gap{border-color:#8a8a8a;color:var(--muted)}
+
+/* 概要ページ */
+.archive-link{margin:1rem 0 1.5rem;padding:.9rem 1rem;border:2px solid var(--link);display:flex;flex-wrap:wrap;gap:.3rem 1rem;align-items:baseline}
+.archive-link a{font-weight:700;font-size:1.05rem}
+.archive-link span{color:var(--muted);font-size:.9rem}
+.facts{display:grid;grid-template-columns:7.5rem 1fr;gap:.4rem 1rem;margin:1rem 0;padding:0}
+.facts dt{color:var(--muted);font-size:.9rem}
+.facts dd{margin:0}
+.items{margin:.3rem 0;padding-left:1.3rem}
+.items li{margin:.1rem 0}
+.note{color:var(--muted);font-size:.9rem}
+.small{font-size:.85rem;color:var(--muted)}
+.pending{margin:2rem 0;padding:.2rem 1rem 1rem;border:1px dashed var(--accent)}
+.pending h2{border:0;margin-top:1rem}
+.assets{list-style:none;padding:0}
+.assets img{max-width:100%;height:auto}
+details{margin:.5rem 0}
+summary{cursor:pointer;color:var(--muted)}
+details ul{font-size:.85rem;word-break:break-all}
+.pager{display:flex;justify-content:space-between;gap:1rem;margin-top:2.5rem;padding-top:1rem;border-top:1px solid var(--rule);font-size:.9rem}
+.pager a:last-child{text-align:right}
+.toc{list-style:none;display:flex;flex-wrap:wrap;gap:.5rem 1.2rem;padding:0;margin:1rem 0}
+.event{margin:0 0 1.4rem;padding-left:.9rem;border-left:3px solid var(--rule)}
+.event h3{margin-top:0}
+.event .facts{margin:.3rem 0}
+.src{font-size:.85rem;padding-left:1.2rem}
+
+@media (max-width:600px){
+  main{margin:0;padding:1.1rem 1rem 1.6rem}
+  .index li{grid-template-columns:4.6rem 1fr}
+  .index .links{grid-column:2}
+  .facts{grid-template-columns:1fr;gap:0}
+  .facts dt{margin-top:.6rem}
+  h1{font-size:1.35rem}
+}
+
+/* 写真ギャラリー */
+.gallery{display:grid;grid-template-columns:repeat(auto-fill,minmax(8.5rem,1fr));gap:.4rem}
+.gallery img{width:100%;height:auto;aspect-ratio:4/3;object-fit:cover;display:block}
+.gallery-wrap h3{margin:1rem 0 .4rem}

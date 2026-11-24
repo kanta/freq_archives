@@ -1,0 +1,2323 @@
+{
+ "site": {
+  "title": "freq archive 2001–",
+  "description": "freq（2001〜、九州芸術工科大学／九州大学 中村滋延研究室・城一裕研究室）の開催記録"
+ },
+ "editions": [
+  {
+   "id": "2001",
+   "year": 2001,
+   "title": "freq「プログラムが表現する音と映像」",
+   "status": "確定",
+   "dates": "2001年11月3日（土）〜4日（日）",
+   "venue": "九州芸術工科大学 多次元棟ホール（参加費無料）",
+   "credits": [
+    {
+     "role": "主催",
+     "names": [
+      "九州芸術工科大学 音響設計学科 中村研究室",
+      "Maxゼミ（2001年度九州芸工大「勧進企画」）"
+     ]
+    },
+    {
+     "role": "協力",
+     "names": [
+      "九州芸術工科大学",
+      "portable[k]ommunity",
+      "八景婦人団体",
+      "ほか"
+     ]
+    }
+   ],
+   "summary": "Max/MSP と nato.0+55 に焦点を当てたイベント。",
+   "sections": [
+    {
+     "heading": "プログラム",
+     "items": [
+      "11月3日：Max/MSP/nato.0+55 レクチャー（16:00〜）、ライブ・コンサート（18:00〜21:00）",
+      "11月4日：ワークショップ（10:30〜18:00）"
+     ]
+    },
+    {
+     "heading": "出演（ライブ）",
+     "items": [
+      "portable[k]ommunity（堀切潤・澤井妙治）",
+      "vf：Fx（E,N,A + DJ Ryou）",
+      "中村滋延",
+      "小畑郁男",
+      "99c_109m",
+      "八景婦人団体",
+      "iorinakai + 710.beppo（横井和也・古舘健）",
+      "Soul-DSP",
+      "plexus.org",
+      "mutagene",
+      "dumbo（松島大介・堀尾寛太）",
+      "bin"
+     ]
+    },
+    {
+     "heading": "ゲスト（ワークショップ）",
+     "items": [
+      "portable[k]ommunity ほか"
+     ]
+    }
+   ],
+   "unresolved": [],
+   "sources": [],
+   "wayback_paths": [
+    "sites/design.kyushu-u.ac.jp/~snlab/freq/2001/"
+   ],
+   "assets": [
+    {
+     "label": "パンフレット（panfreq2001.pdf）",
+     "path": "assets/2001/panfreq2001.pdf"
+    },
+    {
+     "label": "当日の写真",
+     "gallery": "assets/2001/photos"
+    },
+    {
+     "label": "ワークショップの写真",
+     "gallery": "assets/2001/photos/workshop"
+    }
+   ],
+   "archive": {
+    "id": "2001",
+    "entry": "index.html",
+    "label": "2001年のWebサイト（日本語）"
+   }
+  },
+  {
+   "id": "2002",
+   "year": 2002,
+   "title": "FREQ02",
+   "status": "確定",
+   "dates": "2002年11月8日（金）〜10日（日）",
+   "venue": "九州芸術工科大学、ROOMS（クラブイベント）ほか",
+   "credits": [
+    {
+     "role": "主催",
+     "names": [
+      "FREQ実行委員会"
+     ]
+    },
+    {
+     "role": "後援",
+     "names": [
+      "情報処理学会 音楽情報科学研究会",
+      "日本コンピュータ音楽協会",
+      "（財）福岡市文化芸術振興財団",
+      "福岡市",
+      "福岡市教育委員会（平成14年度福岡市民芸術祭参加）"
+     ]
+    },
+    {
+     "role": "講師",
+     "names": [
+      "Robert Duckworth",
+      "藤枝守",
+      "Rodney Berry",
+      "徳井直生",
+      "青木孝允",
+      "中居伊織",
+      "澤井妙治"
+     ]
+    }
+   ],
+   "summary": "同時期の実験音楽イベント月間「experimental month(s)」（2002年10月14日〜12月8日）の一部として開催。月間の8イベントはアーカイブ内の ex-months に記録されています。",
+   "sections": [
+    {
+     "heading": "出演",
+     "items": [
+      "Robert Dockworth",
+      "徳井直生（a.k.a. clickety and clack）",
+      "青木孝允（SILICOM）",
+      "中居伊織",
+      "Rodney Berry",
+      "藤枝守",
+      "discom（deco）",
+      "daisuke_ishida",
+      "加藤淳（zekue, KR3000）",
+      "vokoi kazunovsky",
+      "anagggggg",
+      "take3tsu + mizuki",
+      "グリーシー・ブラインドスポット",
+      "Ken Inaoka",
+      "Soul-DSP",
+      "yamato + Mizuki NOGUCHI（VAL）",
+      "中村滋延",
+      "小畑郁男",
+      "平野砂峰旅",
+      "さかぐちかずひこ",
+      "Lee Hyunjung",
+      "田中司恩",
+      "dumbo"
+     ]
+    },
+    {
+     "heading": "当日の変更",
+     "items": [
+      "11月10日の Rodney Berry のデモは、体調不良で中止。",
+      "11月9日の Duckworth のプレゼンは、モーマスとのネット経由トークに変更。",
+      "関連イベント〈frequency/rhythm〉の portable[k]ommunity 出演はキャンセル。"
+     ]
+    }
+   ],
+   "note": "出演者の表記は当時のページのままです（Robert Dockworth / Duckworth の揺れも直していません）。",
+   "unresolved": [],
+   "sources": [],
+   "wayback_paths": [
+    "sites/design.kyushu-u.ac.jp/~snlab/freq/2002/"
+   ],
+   "assets": [
+    {
+     "label": "ブックレット（freq02_booklet.pdf）",
+     "path": "assets/2002/freq02_booklet.pdf"
+    }
+   ],
+   "archive": {
+    "id": "2002",
+    "entry": "index.html",
+    "label": "2002年のWebサイト（公開用データ）"
+   }
+  },
+  {
+   "id": "2003",
+   "year": 2003,
+   "title": "FREQ03",
+   "status": "確定",
+   "dates": "2003年11月14日（金）〜15日（土）",
+   "venue": "九州芸術工科大学（九州大学大橋キャンパス）多次元デザイン実験棟（両日無料）",
+   "credits": [
+    {
+     "role": "主催",
+     "names": [
+      "九州大学芸術工学部 2003年度「勧進」企画"
+     ]
+    },
+    {
+     "role": "企画・構成",
+     "names": [
+      "九州大学大学院芸術工学研究院 音響部門 中村研究室"
+     ]
+    }
+   ],
+   "summary": "",
+   "sections": [
+    {
+     "heading": "レクチャー",
+     "items": [
+      "14日：Robert Darroll「映像アートの歴史と現状」",
+      "15日：富松潔・鶴野玲治・中村滋延「マルチメディアのためのアート＆デザイン教育」"
+     ]
+    },
+    {
+     "heading": "ライブコンサート出演",
+     "items": [
+      "Robert Darroll",
+      "小畑郁男",
+      "李ヒョンジョン",
+      "馬場哲晃",
+      "YOYH",
+      "ほか"
+     ]
+    },
+    {
+     "heading": "インスタレーション出品",
+     "items": [
+      "黒田芳雄",
+      "三分一修",
+      "渡辺隆太郎",
+      "ほか"
+     ]
+    }
+   ],
+   "note": "アーカイブは、2003年秋〜2004年春にかけての freq のサイト（トップ・スケジュール・アクセス・プロフィールと英語版）です。Wayback の ~snlab/freq/2003/ に記録されている中身は FREQ02 のコピーなので使っていません。",
+   "unresolved": [],
+   "sources": [],
+   "wayback_paths": [
+    "sites/design.kyushu-u.ac.jp/~snlab/freq/top.htm",
+    "sites/design.kyushu-u.ac.jp/~snlab/freq/schedule.htm",
+    "sites/design.kyushu-u.ac.jp/~snlab/freq/access.htm"
+   ],
+   "assets": [],
+   "archive": {
+    "id": "2003",
+    "entry": "top.html",
+    "label": "FREQ03 の告知ページ（2004年2月時点）"
+   }
+  },
+  {
+   "id": "2004",
+   "year": 2004,
+   "title": "FREQ04／インターカレッジ・コンピュータ音楽コンサート2004",
+   "status": "確定",
+   "dates": "2004年12月11日（土）〜12日（日）",
+   "venue": "九州大学大橋キャンパス（多次元デザイン実験棟ホール・ロビー、音響特殊棟 録音スタジオ、3号館322教室）",
+   "credits": [
+    {
+     "role": "主催",
+     "names": [
+      "情報処理学会 音楽情報科学研究会（開催当番校）"
+     ]
+    },
+    {
+     "role": "委嘱演奏者",
+     "names": [
+      "碓井貴美子（Pf）",
+      "脇坂みどり（Fl）",
+      "永野哲（Perc）",
+      "荒木浩一（Sax）"
+     ]
+    }
+   ],
+   "summary": "情報処理学会 音楽情報科学研究会のインターカレッジ・コンピュータ音楽コンサートの開催当番校として実施。来場者はのべ600人。全国15大学と東亜大学（韓国）から39作品が上演された。",
+   "sections": [
+    {
+     "heading": "CONCERT-1（12月11日 13:00–15:00、多次元棟）",
+     "items": [
+      "谷口暁彦・前川峻志《XOR》",
+      "卞在奎《自動記述構成》",
+      "Kim In-Nyon・Kim Hyun-Jung《causa, divortium, remeo II》",
+      "新美桂子・小林健樹《定点観測昆虫記》",
+      "原田豪《Xe1apse ∞》",
+      "Kim Tae-Han・Kim Dae-Kyu《Coke》",
+      "須田康子・下保恵《絆》",
+      "森本洋太《versus》",
+      "Kim Hee-Yeun《Memorization of ADMITURE》",
+      "池上暢子《happibirthday 365》",
+      "小野拓馬《Music Scape》",
+      "池上まどか《5秒間の夢》",
+      "田口友哉・出岡聖一郎《||: processing the overtone :||》"
+     ]
+    },
+    {
+     "heading": "CONCERT-2（12月11日 16:00–18:00、音響特殊実験棟スタジオ）",
+     "items": [
+      "藤岡定《Algo-rhythmic Piano》",
+      "貝田真啓《View》",
+      "大畠和也《S→F》",
+      "豊田振一朗《surging_waves_3》",
+      "太田崇徳《しゅ～しゅ なめじ 蛇居拳拍子》",
+      "山田拓郎《d6》",
+      "小林良穂《mill》",
+      "森住明香《いきもの》",
+      "平林五月《CAVE》",
+      "金子雄大《TECHNICAL DANCE》",
+      "うぶかたさぶろう《Adagio》",
+      "柳澤真梨奈《Attack in wave of the Howlin》"
+     ]
+    },
+    {
+     "heading": "CONCERT-3（12月12日 15:00–17:00、多次元棟）",
+     "items": [
+      "Soul-DSP《Golden Gold》",
+      "有ヶ谷千佳子《advance》",
+      "岩堀昌陽《劫-kalpa-》",
+      "杉森直・白戸佑輔・千葉真友子《ヒップでHOPなオムニバスMOVIE》",
+      "市野孝洋《隔たりのある音楽》",
+      "平山晴花《swallow》",
+      "横山克《夢幻泡影》",
+      "深川智恵美・山本舞・須田康子《鬼ごっこ》",
+      "伊藤建介《Sei Bellissima》",
+      "清水知美《とかげのいる生活》",
+      "魚住勇太《Chain》",
+      "Meor《Eternal Triangle》",
+      "江原大介ほか《電子音楽と映像のためのオムニバス作品 I》"
+     ]
+    },
+    {
+     "heading": "INSTALLATION（多次元棟ロビー）",
+     "items": [
+      "鄭東振《広がる音》",
+      "池澤廣和《紋葉》",
+      "印雅代《アイリス》",
+      "梶原祥平《独りロックンロールマシン》",
+      "黒田芳雄《NooB, Apap, NUENBO》",
+      "杉山紘一郎《WindHose #2》",
+      "高塚紀枝《オタマジャクシハカエルノコ》",
+      "山本愛紗《ミルミラレル》",
+      "moids（三原聡一郎・むぎばやしひろこ・斉田一樹・サトミミカ）《morphogenetic field》"
+     ]
+    }
+   ],
+   "unresolved": [],
+   "sources": [],
+   "wayback_paths": [
+    "sites/design.kyushu-u.ac.jp/~snlab/freq/2004/"
+   ],
+   "assets": [
+    {
+     "label": "InterCollege2004.pdf（開催案内。Wayback Machine の記録）",
+     "url": "https://web.archive.org/web/20060209090915/http://www.design.kyushu-u.ac.jp/~snlab/freq/2004/InterCollege2004.pdf"
+    }
+   ],
+   "archive": {
+    "id": "2004",
+    "entry": "index.html",
+    "label": "2004年のWebサイト"
+   }
+  },
+  {
+   "id": "2005",
+   "year": 2005,
+   "title": "freq05「プログラムが表現する音と映像」",
+   "status": "確定",
+   "dates": "2005年11月5日（土）　コンサート 17:00〜19:00／インスタレーション 12:00〜18:00",
+   "venue": "九州大学大橋キャンパス 多次元デザイン実験棟ホール（無料）",
+   "credits": [
+    {
+     "role": "主催",
+     "names": [
+      "九州大学大学院芸術工学研究院 音響部門 中村研究室"
+     ]
+    }
+   ],
+   "summary": "",
+   "sections": [
+    {
+     "heading": "コンサート",
+     "items": [
+      "佐々木理恵・藤岡定《涙目の月と海辺に》",
+      "河野正樹《Cycle～音群ジェネレータを用いて～》",
+      "朴恩昌・郭小満・鄭美真《夢の中》",
+      "李敬美・吉元康二《甦生》",
+      "三分一修・藤岡定《Code》",
+      "吉元康二《float, float》",
+      "山田祐嗣《uniT-Rack》"
+     ]
+    },
+    {
+     "heading": "インスタレーション",
+     "items": [
+      "藤岡定《Commusic》",
+      "山田祐嗣《Akt-ion》",
+      "近藤義秀《sound gossip》"
+     ]
+    }
+   ],
+   "unresolved": [],
+   "sources": [],
+   "wayback_paths": [
+    "sites/design.kyushu-u.ac.jp/~snlab/freq/2005/",
+    "sites/design.kyushu-u.ac.jp/~snlab/img/freq05.jpg"
+   ],
+   "assets": [],
+   "archive": {
+    "id": "2005",
+    "entry": "index.html",
+    "label": "2005年のWebサイト"
+   }
+  },
+  {
+   "id": "2006",
+   "year": 2006,
+   "title": "freq06",
+   "status": "調査中",
+   "dates": "2006年7月25日 18:30",
+   "venue": "不明",
+   "credits": [
+    {
+     "role": "主催",
+     "names": [
+      "中村研究室"
+     ]
+    }
+   ],
+   "summary": "freq トップの説明によると、freq05〜07 は「研究室の作品発表」と位置づけられ、3回で計10作品を発表しています。",
+   "sections": [],
+   "unresolved": [
+    "会場とプログラムは見つかっていません。~snlab/freq/2006/ は Wayback に記録がありません（2023年時点で404）。"
+   ],
+   "sources": [],
+   "wayback_paths": [
+    "sites/design.kyushu-u.ac.jp/~snlab/index.html"
+   ],
+   "assets": [],
+   "archive": null
+  },
+  {
+   "id": "2007",
+   "year": 2007,
+   "title": "freq07「プログラムが表現する音と映像」",
+   "status": "確定",
+   "dates": "2007年8月8日（水）　16:30開場、17:00開演",
+   "venue": "九州大学大橋キャンパス 音響特殊実験棟2階 録音スタジオ（無料）",
+   "credits": [
+    {
+     "role": "主催",
+     "names": [
+      "中村研究室"
+     ]
+    }
+   ],
+   "summary": "",
+   "sections": [
+    {
+     "heading": "作品",
+     "items": [
+      "山口淳《絃の幻影 第2番》",
+      "坂口優《ある日曜日に》",
+      "藤岡定《Cubie》",
+      "西山昌吾《Viewpoint》",
+      "古田伸彦《efffaeede》",
+      "的場寛《電気ドミノ》",
+      "岩谷成晃《bg》",
+      "李敬美《CirCle》",
+      "朴恩昌《Huming》",
+      "梶原祥平《独りヒップホップマシン》",
+      "城谷豪志《Pumboo》"
+     ]
+    }
+   ],
+   "note": "元ページの曜日表記は「火」ですが、2007年8月8日は水曜日です。",
+   "unresolved": [],
+   "sources": [],
+   "wayback_paths": [
+    "sites/design.kyushu-u.ac.jp/~snlab/freq/2007/"
+   ],
+   "assets": [],
+   "archive": {
+    "id": "2007",
+    "entry": "index.html",
+    "label": "2007年のWebサイト"
+   }
+  },
+  {
+   "id": "2007-tokyo",
+   "year": 2007,
+   "title": "freq in tokyo",
+   "status": "確定",
+   "dates": "2007年12月17日（月）〜19日（水）",
+   "venue": "九州大学・芸術工学東京サイト（東京ミッドタウン・タワー5階 DesignHUB 内）（無料）",
+   "credits": [
+    {
+     "role": "主催",
+     "names": [
+      "中村滋延研究室"
+     ]
+    },
+    {
+     "role": "企画・構成",
+     "names": [
+      "中村滋延",
+      "栗原詩子"
+     ]
+    }
+   ],
+   "summary": "福岡を離れての初めての開催で、研究室の学生とOBの近作を紹介。",
+   "sections": [
+    {
+     "heading": "出品者",
+     "items": [
+      "梶原祥平",
+      "藤岡定",
+      "山口淳",
+      "李敬美",
+      "朴恩昌",
+      "古田伸彦",
+      "西山昌吾",
+      "的場寛",
+      "岩谷成晃",
+      "坂口優",
+      "王女亭女亭",
+      "松山豊",
+      "城一裕",
+      "堀尾寛太",
+      "渡辺圭介",
+      "近藤義秀",
+      "杉井真一"
+     ]
+    },
+    {
+     "heading": "主な作品",
+     "items": [
+      "城一裕＋永野哲久《Monalisa》",
+      "堀尾寛太《EM#3 + round trip》",
+      "渡辺圭介《Sensorium》",
+      "藤岡定＋近藤義秀《qr:》",
+      "梶原祥平《独りヒップホップマシン Light》",
+      "ほか"
+     ]
+    }
+   ],
+   "unresolved": [],
+   "sources": [],
+   "wayback_paths": [
+    "sites/design.kyushu-u.ac.jp/~snlab/freq/2007tokyo/"
+   ],
+   "assets": [],
+   "archive": {
+    "id": "2007-tokyo",
+    "entry": "index.html",
+    "label": "freq in tokyo のWebサイト"
+   }
+  },
+  {
+   "id": "2008",
+   "year": 2008,
+   "title": "freq08 studio concert",
+   "status": "調査中",
+   "dates": "2008年8月8日（金）　16:30開場、17:00開演",
+   "venue": "九州大学大橋キャンパス 録音スタジオ",
+   "credits": [
+    {
+     "role": "主催",
+     "names": [
+      "中村研究室"
+     ]
+    }
+   ],
+   "summary": "digital music + video art + installation",
+   "sections": [],
+   "unresolved": [
+    "プログラム（チラシ裏面）は見つかっていません。"
+   ],
+   "sources": [],
+   "wayback_paths": [
+    "sites/design.kyushu-u.ac.jp/~snlab/freq/2008/",
+    "sites/design.kyushu-u.ac.jp/~snlab/freq/freq08mini.jpg"
+   ],
+   "assets": [
+    {
+     "label": "チラシ（表面）",
+     "path": "assets/2008/freq08stomote.gif",
+     "image": true
+    }
+   ],
+   "archive": null
+  },
+  {
+   "id": "2009",
+   "year": 2009,
+   "title": "freq09",
+   "status": "調査中",
+   "dates": "不明（2009年）",
+   "venue": "不明",
+   "credits": [
+    {
+     "role": "主催",
+     "names": [
+      "中村研究室"
+     ]
+    }
+   ],
+   "summary": "freq トップに「2009年の九州大学大学院中村研究室主催のコンピュータ音楽の演奏会」とあり、ページは sound.jp/studiofreq/snlab/freq/2009/freq09.html に移っていました。",
+   "sections": [],
+   "unresolved": [
+    "日時・会場・出演者はすべて不明です。Wayback には中身のある記録がありません。"
+   ],
+   "sources": [],
+   "wayback_paths": [],
+   "assets": [],
+   "archive": null
+  },
+  {
+   "id": "2010",
+   "year": 2010,
+   "title": "freq2010「プログラムが表現する音と映像」",
+   "status": "確定",
+   "dates": "2010年9月25日（土）12:00〜21:00　インスタレーション 12:00〜18:00／パフォーマンス・ショーケース 18:00〜21:00",
+   "venue": "九州大学大橋キャンパス 多次元実験棟 1F・2F（無料）",
+   "credits": [
+    {
+     "role": "主催",
+     "names": [
+      "九州大学中村研究室"
+     ]
+    },
+    {
+     "role": "企画・構成",
+     "names": [
+      "的場寛"
+     ]
+    },
+    {
+     "role": "デザイン",
+     "names": [
+      "宇佐美毅"
+     ]
+    },
+    {
+     "role": "参加作家（中村研究室）",
+     "names": [
+      "青木一生",
+      "稲垣光亮",
+      "川尻大輔",
+      "小島順一",
+      "土下竜人",
+      "中村智太",
+      "長濱裕太郎",
+      "新美太基",
+      "的場寛",
+      "松村智弘"
+     ]
+    },
+    {
+     "role": "ゲスト",
+     "names": [
+      "津田三朗（芸工デザイン基盤センター工作工房）",
+      "Invisible Designs Lab.",
+      "Florian Meyer（HfG カールスルーエ）",
+      "サウンド☆リノベーションバンド（藤枝研究室・河辺研究室）",
+      "寺江圭一朗",
+      "宇佐美毅（佐藤優研究室）"
+     ]
+    }
+   ],
+   "summary": "告知文に「今年で10年目を迎えるfreq」とあります。",
+   "sections": [],
+   "unresolved": [],
+   "sources": [
+    {
+     "label": "芸工サイトの告知",
+     "url": "https://www.design.kyushu-u.ac.jp/topics/6032/"
+    }
+   ],
+   "wayback_paths": [
+    "sites/sound.jp/studiofreq/snlab/freq/2010/"
+   ],
+   "assets": [],
+   "archive": {
+    "id": "2010",
+    "entry": "index.html",
+    "label": "freq2010 のWebサイト"
+   }
+  },
+  {
+   "gap": true,
+   "years": "2011–2017",
+   "note": "Web検索と Wayback を調べましたが、freq の名前での開催記録は見つかっていません。関係者への確認が必要な期間です。"
+  },
+  {
+   "id": "2018",
+   "year": 2018,
+   "title": "FREQ2018 ―21世紀初頭の音と音楽―",
+   "status": "確定",
+   "dates": "2018年3月29日（木）〜30日（金）",
+   "venue": "九州大学大橋キャンパス 音響特殊棟（無料）",
+   "credits": [
+    {
+     "role": "主催",
+     "names": [
+      "九州大学芸術工学部 音響設計学科 城研究室"
+     ]
+    },
+    {
+     "role": "ゲスト",
+     "names": [
+      "金子智太郎（トーク）",
+      "比嘉了＋すずえり（パフォーマンス）"
+     ]
+    },
+    {
+     "role": "出展・出演",
+     "names": [
+      "城一裕",
+      "松浦知也",
+      "Cycaq",
+      "谷川穂高",
+      "吉村帆生",
+      "帯屋健之",
+      "清水久見"
+     ]
+    }
+   ],
+   "summary": "",
+   "sections": [],
+   "unresolved": [],
+   "sources": [
+    {
+     "label": "松浦知也「FREQ2018」",
+     "url": "https://matsuuratomoya.com/info/2018-03-23/freq2018/"
+    }
+   ],
+   "wayback_paths": [],
+   "assets": [],
+   "archive": null
+  },
+  {
+   "gap": true,
+   "years": "2019–2021",
+   "note": "Web検索と Wayback を調べましたが、freq の名前での開催記録は見つかっていません。関係者への確認が必要な期間です。"
+  },
+  {
+   "id": "220218",
+   "year": 2022,
+   "title": "Feldman meets freq メディア・テクノロジーから生まれる音",
+   "status": "確定",
+   "dates": "2022年2月18日〜20日（演奏会5公演）",
+   "venue": "九州大学 大橋キャンパス 音響特殊棟（改修記念のコンサート・シリーズ）",
+   "credits": [
+    {
+     "role": "主催",
+     "names": [
+      "九州大学大学院芸術工学研究院 音響設計コース 音文化学講座"
+     ]
+    },
+    {
+     "role": "出演",
+     "names": [
+      "井上郷子",
+      "KAKUHAN（日野浩志郎＋中川裕貴）",
+      "大場秀毅",
+      "福岡カンマーフィルハーモニー",
+      "Gumi",
+      "松隈聡子",
+      "ほか"
+     ]
+    },
+    {
+     "role": "チケット",
+     "names": [
+      "1日券 2,200円（一般）／1,100円（学生・九大教職員）",
+      "3日間通し券（15枚限定）5,500円（一般）／2,750円（学生・九大教職員）",
+      "Peatix のみで販売"
+     ]
+    }
+   ],
+   "summary": "音響特殊棟の改修を記念した最初のコンサート・シリーズ。20年にわたりメディア・テクノロジーから生まれる音を追求してきた freq と、モートン・フェルドマンおよびアメリカの実験音楽を、日本の現代音楽や電子音楽（福岡を拠点とする作曲家・演奏家を含む）と交差させる企画。",
+   "sections": [],
+   "unresolved": [],
+   "sources": [
+    {
+     "label": "Peatix",
+     "url": "https://feldmanmeetsfreq.peatix.com/"
+    },
+    {
+     "label": "芸工サイトの告知",
+     "url": "https://www.design.kyushu-u.ac.jp/topics/13236/"
+    },
+    {
+     "label": "Daryl Jamieson アーカイブ（2022年2月）",
+     "url": "https://daryljamieson.com/jp/files/archive-february-2022.html"
+    },
+    {
+     "label": "城研究室のイベント一覧",
+     "url": "https://www.design.kyushu-u.ac.jp/~jo/posts/events/"
+    }
+   ],
+   "wayback_paths": [],
+   "assets": [],
+   "archive": null
+  },
+  {
+   "id": "230128",
+   "year": 2023,
+   "title": "OlaYshi (OLAibi, YPY, UNBE) + NIHIL D + llluuu",
+   "status": "確定",
+   "dates": "2023年1月28日（土）15:00〜",
+   "venue": "福岡県福岡市",
+   "credits": [
+    {
+     "role": "出演",
+     "names": [
+      "OlaYshi（OLAibi、YPY、UNBE）",
+      "NIHIL D",
+      "llluuu"
+     ]
+    }
+   ],
+   "summary": "",
+   "sections": [],
+   "unresolved": [],
+   "sources": [
+    {
+     "label": "Peatix",
+     "url": "https://olayshi-nihild-llluuu.peatix.com/"
+    }
+   ],
+   "wayback_paths": [],
+   "assets": [],
+   "archive": null,
+   "note": "Peatix の主催者は freq ですが、タイトルに freq は含まれていません。"
+  },
+  {
+   "id": "230223",
+   "year": 2023,
+   "title": "freq 2023 ―メディア・テクノロジーから生まれる音―",
+   "status": "確定",
+   "dates": "2023年2月23日（木）18:30〜21:30",
+   "venue": "九州大学 大橋キャンパス 音響特殊棟 録音スタジオ",
+   "credits": [
+    {
+     "role": "主催",
+     "names": [
+      "九州大学大学院芸術工学研究院 音響設計コース 音文化学講座"
+     ]
+    },
+    {
+     "role": "ゲスト",
+     "names": [
+      "L?K?O",
+      "1729"
+     ]
+    },
+    {
+     "role": "出演",
+     "names": [
+      "城一裕",
+      "宮下恵太",
+      "Tomoki Okuda",
+      "ほか"
+     ]
+    }
+   ],
+   "summary": "城一裕展「木、紙、金属、磁器 - 予め吹き込まれた音響のないレコード -」との共催。メディア・テクノロジーから生まれる音の可能性を、本学のメンバーがゲストとともに探る。入場無料（限定50名）。",
+   "sections": [],
+   "unresolved": [],
+   "sources": [
+    {
+     "label": "Peatix",
+     "url": "https://freq2023.peatix.com/"
+    },
+    {
+     "label": "城研究室のイベント一覧",
+     "url": "https://www.design.kyushu-u.ac.jp/~jo/posts/events/"
+    }
+   ],
+   "wayback_paths": [],
+   "assets": [],
+   "archive": null
+  },
+  {
+   "id": "230513",
+   "year": 2023,
+   "title": "stain",
+   "status": "確定",
+   "dates": "2023年5月13日（土）〜16日（火）",
+   "venue": "福岡県福岡市",
+   "credits": [
+    {
+     "role": "出演",
+     "names": [
+      "Paul DeMarinis",
+      "COMPUMA",
+      "松浦知也",
+      "ほか"
+     ]
+    }
+   ],
+   "summary": "",
+   "sections": [],
+   "unresolved": [],
+   "sources": [
+    {
+     "label": "Peatix",
+     "url": "https://stain.peatix.com/"
+    }
+   ],
+   "wayback_paths": [],
+   "assets": [],
+   "archive": null,
+   "note": "Peatix の主催者は freq ですが、タイトルに freq は含まれていません。"
+  },
+  {
+   "id": "230813",
+   "year": 2023,
+   "title": "freq – 230813",
+   "status": "確定",
+   "dates": "2023年8月13日（日）16:00〜20:00",
+   "venue": "九州大学 大橋キャンパス 音響特殊棟 録音スタジオ",
+   "credits": [
+    {
+     "role": "主催",
+     "names": [
+      "九州大学大学院芸術工学研究院 音響設計コース 音文化学講座"
+     ]
+    },
+    {
+     "role": "出演",
+     "names": [
+      "1729",
+      "鷲尾拓海",
+      "NIHIL D",
+      "llluuu",
+      "mae"
+     ]
+    },
+    {
+     "role": "助成",
+     "names": [
+      "日本学術振興会科研費 [23H00591][23K17267]"
+     ]
+    },
+    {
+     "role": "協賛",
+     "names": [
+      "AlphaTheta株式会社"
+     ]
+    }
+   ],
+   "summary": "入場無料（限定50名）。",
+   "sections": [],
+   "unresolved": [],
+   "sources": [
+    {
+     "label": "Peatix",
+     "url": "https://230813freq.peatix.com/"
+    },
+    {
+     "label": "城研究室のイベント一覧",
+     "url": "https://www.design.kyushu-u.ac.jp/~jo/posts/events/"
+    }
+   ],
+   "wayback_paths": [],
+   "assets": [],
+   "archive": null
+  },
+  {
+   "id": "231020",
+   "year": 2023,
+   "title": "freq – 231020",
+   "status": "確定",
+   "dates": "2023年10月20日（金）18:00〜21:00",
+   "venue": "九州大学 大橋キャンパス 音響特殊棟 録音スタジオ",
+   "credits": [
+    {
+     "role": "主催",
+     "names": [
+      "九州大学大学院芸術工学研究院 音響設計コース 音文化学講座"
+     ]
+    },
+    {
+     "role": "出演",
+     "names": [
+      "MARK FELL",
+      "KAKUHAN",
+      "RIAN TREANOR"
+     ]
+    }
+   ],
+   "summary": "1990年代以降の電子音楽・実験的なテクノの巨頭 MARK FELL、本学非常勤講師の日野浩志郎と中川裕貴によるユニット KAKUHAN、クラブ・カルチャーと実験芸術とコンピューター・ミュージックの交差点を再考する RIAN TREANOR によるライブ・パフォーマンスとトーク。入場無料（限定50名）。",
+   "sections": [],
+   "unresolved": [],
+   "sources": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-231020.peatix.com/"
+    },
+    {
+     "label": "城研究室のイベント一覧",
+     "url": "https://www.design.kyushu-u.ac.jp/~jo/posts/events/"
+    }
+   ],
+   "wayback_paths": [],
+   "assets": [],
+   "archive": null
+  },
+  {
+   "id": "240512",
+   "year": 2024,
+   "title": "freq – 240512",
+   "status": "確定",
+   "dates": "2024年5月12日（日）17:30〜21:00",
+   "venue": "九州大学 大橋キャンパス 音響特殊棟 録音スタジオ",
+   "credits": [
+    {
+     "role": "主催",
+     "names": [
+      "九州大学大学院芸術工学研究院 音響設計コース 音文化学講座",
+      "九州大学大学改革活性化制度プロジェクト"
+     ]
+    },
+    {
+     "role": "出演",
+     "names": [
+      "宮下恵太",
+      "おおしまたくろう",
+      "vvekapipo",
+      "hazuki ohta"
+     ]
+    }
+   ],
+   "summary": "本学テクニカルスタッフ宮下恵太の退任に伴い、宮下と交流のあるゲストを日本各地から招いたパフォーマンスとトーク。",
+   "sections": [],
+   "unresolved": [],
+   "sources": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-240512.peatix.com/"
+    },
+    {
+     "label": "城研究室のイベント一覧",
+     "url": "https://www.design.kyushu-u.ac.jp/~jo/posts/events/"
+    }
+   ],
+   "wayback_paths": [],
+   "assets": [],
+   "archive": null
+  },
+  {
+   "id": "240530",
+   "year": 2024,
+   "title": "freq – 240530「One Step Closer to the Abyss」",
+   "status": "確定",
+   "dates": "2024年5月30日（木）18:30〜20:30",
+   "venue": "九州大学 大橋キャンパス 音響特殊棟 録音スタジオ",
+   "credits": [
+    {
+     "role": "主催",
+     "names": [
+      "九州大学大学院芸術工学研究院 音響設計コース 音文化学講座"
+     ]
+    },
+    {
+     "role": "出演",
+     "names": [
+      "Tomas Nordmark",
+      "Per Hüttner",
+      "城一裕"
+     ]
+    }
+   ],
+   "summary": "ロンドンを拠点とする作曲家 Tomas Nordmark と、パリを拠点とする音楽家・映像作家 Per Hüttner による、EEGSynth を用いた脳波（EEG）による音と映像のパフォーマンス“One Step Closer to the Abyss”と、アーティストトーク。",
+   "sections": [],
+   "unresolved": [],
+   "sources": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-240530.peatix.com/"
+    },
+    {
+     "label": "城研究室のイベント一覧",
+     "url": "https://www.design.kyushu-u.ac.jp/~jo/posts/events/"
+    }
+   ],
+   "wayback_paths": [],
+   "assets": [],
+   "archive": null
+  },
+  {
+   "id": "240613",
+   "year": 2024,
+   "title": "freq – 240613",
+   "status": "確定",
+   "dates": "2024年6月13日（木）18:00〜21:00",
+   "venue": "九州大学 大橋キャンパス 音響特殊棟 録音スタジオ",
+   "credits": [
+    {
+     "role": "主催",
+     "names": [
+      "九州大学大学院芸術工学研究院 音響設計コース 音文化学講座"
+     ]
+    },
+    {
+     "role": "出演",
+     "names": [
+      "Tomeka Reid Quartet",
+      "KAKUHAN（日野浩志郎＋中川裕貴）",
+      "本学在学生ほか"
+     ]
+    }
+   ],
+   "summary": "シカゴ／ニューヨークのジャズシーンから来日する Tomeka Reid Quartet と、本学非常勤講師の日野浩志郎・中川裕貴によるユニット KAKUHAN を迎え、本学在学生らによる発信器とグラスハープのアンサンブルとともに行うパフォーマンス。",
+   "sections": [],
+   "unresolved": [],
+   "sources": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-240613.peatix.com/"
+    },
+    {
+     "label": "城研究室のイベント一覧",
+     "url": "https://www.design.kyushu-u.ac.jp/~jo/posts/events/"
+    }
+   ],
+   "wayback_paths": [],
+   "assets": [],
+   "archive": null
+  },
+  {
+   "id": "240713",
+   "year": 2024,
+   "title": "freq – 240713",
+   "status": "確定",
+   "dates": "2024年7月13日（土）16:30〜20:30",
+   "venue": "九州大学 大橋キャンパス 音響特殊棟 録音スタジオ",
+   "credits": [
+    {
+     "role": "主催",
+     "names": [
+      "九州大学大学院芸術工学研究院 音響設計コース 音文化学講座"
+     ]
+    },
+    {
+     "role": "出演",
+     "names": [
+      "Atau Tanaka",
+      "Erämaa Trio（大川彬子、セドリック・ドゥ・ブリュッケル、クエンティン・ムーリス）"
+     ]
+    }
+   ],
+   "summary": "ロンドン・パリを拠点とする音楽家・研究者で、EMG（表面筋電位）を活用したパフォーマンスの第一人者 Atau Tanaka（田中 能）と、Erämaa Trio（大川彬子、セドリック・ドゥ・ブリュッケル、クエンティン・ムーリス）によるアーティスト・トークとパフォーマンス。",
+   "sections": [],
+   "unresolved": [],
+   "sources": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-240713.peatix.com/"
+    },
+    {
+     "label": "城研究室のイベント一覧",
+     "url": "https://www.design.kyushu-u.ac.jp/~jo/posts/events/"
+    }
+   ],
+   "wayback_paths": [],
+   "assets": [],
+   "archive": null
+  },
+  {
+   "id": "240807",
+   "year": 2024,
+   "title": "freq meets SEXTANS \"SGFT\"",
+   "status": "確定",
+   "dates": "2024年8月7日（水）15:30〜20:30",
+   "venue": "九州大学 大橋キャンパス",
+   "credits": [
+    {
+     "role": "主催",
+     "names": [
+      "九州大学大学院芸術工学研究院 音響設計コース 音文化学講座",
+      "SEXTANS"
+     ]
+    },
+    {
+     "role": "出演",
+     "names": [
+      "SG / Andrew Pekler",
+      "Fumitake Tamura",
+      "JO Kazuhiro",
+      "vvekapipo",
+      "ほか"
+     ]
+    }
+   ],
+   "summary": "福岡を拠点に活動する SEXTANS との共催。ドイツ在住の SG / Andrew Pekler と、東京出身のプロデューサー Fumitake Tamura を迎えたパフォーマンス（15:30〜）とアーティストトーク（19:00〜）。",
+   "sections": [],
+   "unresolved": [],
+   "sources": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-240807.peatix.com/"
+    },
+    {
+     "label": "城研究室のイベント一覧",
+     "url": "https://www.design.kyushu-u.ac.jp/~jo/posts/events/"
+    }
+   ],
+   "wayback_paths": [],
+   "assets": [],
+   "archive": null
+  },
+  {
+   "id": "240914",
+   "year": 2024,
+   "title": "freq – 2409 “1729 & SUGAI KEN”",
+   "status": "確定",
+   "dates": "2024年9月14日（土）〜15日（日）13:00〜20:00",
+   "venue": "九州大学 大橋キャンパス（無響室、録音スタジオ）",
+   "credits": [
+    {
+     "role": "主催",
+     "names": [
+      "九州大学大学院芸術工学研究院 音響設計コース 音文化学講座"
+     ]
+    },
+    {
+     "role": "出演",
+     "names": [
+      "1729",
+      "SUGAI KEN",
+      "城一裕"
+     ]
+    }
+   ],
+   "summary": "DJ の 1729、電子音楽家の SUGAI KEN、本学准教授の城一裕による、無響室を用いた作品の公開実験展示、1729 による無響室での DJ、SUGAI KEN による録音スタジオでのパフォーマンス、および3者によるトーク。公開実験展示は事前申込制。",
+   "sections": [
+    {
+     "heading": "プログラム",
+     "items": [
+      "9月14日 13:00– / 17:00–  公開実験展示・DJ（1729）",
+      "9月15日 13:00–  公開実験展示・DJ（1729）",
+      "9月15日 17:30–  パフォーマンス（SUGAI KEN）・トーク"
+     ]
+    }
+   ],
+   "unresolved": [],
+   "sources": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-2409.peatix.com/"
+    },
+    {
+     "label": "城研究室のイベント一覧",
+     "url": "https://www.design.kyushu-u.ac.jp/~jo/posts/events/"
+    }
+   ],
+   "wayback_paths": [],
+   "assets": [],
+   "archive": null
+  },
+  {
+   "id": "241101",
+   "year": 2024,
+   "title": "Incomplete Niwa Archives 終らない庭のアーカイヴ -anechoic chamber version-",
+   "status": "確定",
+   "dates": "2024年11月1日（金）〜2日（土）",
+   "venue": "福岡県福岡市（無響室）",
+   "credits": [],
+   "summary": "",
+   "sections": [],
+   "unresolved": [],
+   "sources": [
+    {
+     "label": "Peatix",
+     "url": "https://niwa-241101.peatix.com/"
+    }
+   ],
+   "wayback_paths": [],
+   "assets": [],
+   "archive": null,
+   "note": "Peatix の主催者は freq ですが、タイトルに freq は含まれていません。"
+  },
+  {
+   "id": "241128",
+   "year": 2024,
+   "title": "freq – 241128 “立石雷+YPY”",
+   "status": "確定",
+   "dates": "2024年11月28日（木）18:30〜21:00",
+   "venue": "九州大学 大橋キャンパス",
+   "credits": [
+    {
+     "role": "主催",
+     "names": [
+      "九州大学大学院芸術工学研究院"
+     ]
+    },
+    {
+     "role": "出演",
+     "names": [
+      "立石雷",
+      "YPY（日野浩志郎）"
+     ]
+    }
+   ],
+   "summary": "篠笛奏者・立石雷のデビューアルバム「Presence」の発売を記念した国内11公演のリリースツアーの一つとして、立石と YPY（日野浩志郎）を迎えたパフォーマンスとトーク。",
+   "sections": [],
+   "unresolved": [],
+   "sources": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-241128.peatix.com/"
+    },
+    {
+     "label": "城研究室のイベント一覧",
+     "url": "https://www.design.kyushu-u.ac.jp/~jo/posts/events/"
+    }
+   ],
+   "wayback_paths": [],
+   "assets": [],
+   "archive": null
+  },
+  {
+   "id": "250314",
+   "year": 2025,
+   "title": "freq – 250314「weaving wave ways」",
+   "status": "確定",
+   "dates": "2025年3月14日",
+   "venue": "",
+   "credits": [],
+   "summary": "",
+   "sections": [],
+   "unresolved": [],
+   "sources": [
+    {
+     "label": "城研究室のイベント一覧",
+     "url": "https://www.design.kyushu-u.ac.jp/~jo/posts/events/"
+    }
+   ],
+   "wayback_paths": [],
+   "assets": [],
+   "archive": null
+  },
+  {
+   "id": "250511",
+   "year": 2025,
+   "title": "freq – 250511「音の始源を求めて Presents『NIPPON 電子音楽70周年記念』」",
+   "status": "確定",
+   "dates": "2025年5月11日（日）15:30〜19:00",
+   "venue": "九州大学 大橋キャンパス 音響特殊棟",
+   "credits": [
+    {
+     "role": "主催",
+     "names": [
+      "九州大学大学院芸術工学研究院 音響設計部門"
+     ]
+    },
+    {
+     "role": "共催",
+     "names": [
+      "音の始源を求めて"
+     ]
+    }
+   ],
+   "summary": "「音の始源を求めて」との共催によるコンサート『NIPPON 電子音楽70周年記念』。1950年代に始まる日本の電子音楽（黛敏郎の「X・Y・Z」、日本初の電子音楽作品「素数の比系列による正弦波の音楽」など）を振り返る。",
+   "sections": [],
+   "unresolved": [],
+   "sources": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-250511.peatix.com/"
+    },
+    {
+     "label": "城研究室のイベント一覧",
+     "url": "https://www.design.kyushu-u.ac.jp/~jo/posts/events/"
+    }
+   ],
+   "wayback_paths": [],
+   "assets": [],
+   "archive": null
+  },
+  {
+   "id": "250823",
+   "year": 2025,
+   "title": "freq – 250823『初期DUMB TYPE THEATERとその音楽』",
+   "status": "確定",
+   "dates": "2025年8月23日（土）14:00〜18:00",
+   "venue": "九州大学 大橋キャンパス 音響特殊棟 録音スタジオ",
+   "credits": [
+    {
+     "role": "主催",
+     "names": [
+      "九州大学大学院芸術工学研究院 音響設計コース 音文化学講座"
+     ]
+    },
+    {
+     "role": "共催",
+     "names": [
+      "pianola records",
+      "conatala"
+     ]
+    },
+    {
+     "role": "出演",
+     "names": [
+      "山中透",
+      "穂積幸弘",
+      "ほか"
+     ]
+    }
+   ],
+   "summary": "pianola records / conatala との共催によるコメンタリー上映＆トークセッション／ライブ・パフォーマンス。ダムタイプ最初期のダムタイプシアター時代の公演「睡眠の計画 - Plan For Sleep (1986)」「庭園の黄昏 - Every Dog Has His Day (1985)」の記録映像のハイライトを、当事者の山中透と穂積幸弘による解説とともに上映する。",
+   "sections": [],
+   "unresolved": [],
+   "sources": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-250823.peatix.com/"
+    },
+    {
+     "label": "城研究室のイベント一覧",
+     "url": "https://www.design.kyushu-u.ac.jp/~jo/posts/events/"
+    }
+   ],
+   "wayback_paths": [],
+   "assets": [],
+   "archive": null
+  },
+  {
+   "id": "251011",
+   "year": 2025,
+   "title": "freq – 251011",
+   "status": "確定",
+   "dates": "2025年10月11日（土）14:00〜19:00",
+   "venue": "九州大学 大橋キャンパス",
+   "credits": [
+    {
+     "role": "主催",
+     "names": [
+      "九州大学大学院芸術工学研究院 音響設計コース 音文化学講座"
+     ]
+    },
+    {
+     "role": "共催",
+     "names": [
+      "「芸術×科学による分野横断型高度クリエイティブ人材育成プログラム」DANC クリエイティブ融合コア"
+     ]
+    },
+    {
+     "role": "出演",
+     "names": [
+      "Moreskinsound（David Toop、Ania Psenitsnikova）",
+      "Myriam Van Imschoot"
+     ]
+    }
+   ],
+   "summary": "音楽家・作家の David Toop とパフォーマー／ビジュアル・アーティストの Ania Psenitsnikova によるデュオ Moreskinsound と、Myriam Van Imschoot によるライブ・パフォーマンス＆トークセッション。",
+   "sections": [],
+   "unresolved": [],
+   "sources": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-251011.peatix.com/"
+    },
+    {
+     "label": "城研究室のイベント一覧",
+     "url": "https://www.design.kyushu-u.ac.jp/~jo/posts/events/"
+    }
+   ],
+   "wayback_paths": [],
+   "assets": [],
+   "archive": null
+  },
+  {
+   "id": "251023",
+   "year": 2025,
+   "title": "freq – 251023",
+   "status": "確定",
+   "dates": "2025年10月23日（木）18:30〜21:00",
+   "venue": "九州大学 大橋キャンパス 音響特殊棟 録音スタジオ",
+   "credits": [
+    {
+     "role": "主催",
+     "names": [
+      "九州大学大学院芸術工学研究院 音響設計コース 音文化学講座"
+     ]
+    },
+    {
+     "role": "共催",
+     "names": [
+      "「芸術×科学による分野横断型高度クリエイティブ人材育成プログラム」DANC クリエイティブ融合コア"
+     ]
+    },
+    {
+     "role": "出演",
+     "names": [
+      "畠中実"
+     ]
+    }
+   ],
+   "summary": "畠中実によるリスニングイベント＆トークセッション「サウンドアートとその周辺（の音楽）」。入場無料（定員50名）。",
+   "sections": [],
+   "unresolved": [],
+   "sources": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-251023.peatix.com/"
+    },
+    {
+     "label": "城研究室のイベント一覧",
+     "url": "https://www.design.kyushu-u.ac.jp/~jo/posts/events/"
+    }
+   ],
+   "wayback_paths": [],
+   "assets": [],
+   "archive": null
+  },
+  {
+   "id": "251031",
+   "year": 2025,
+   "title": "freq – 251031",
+   "status": "確定",
+   "dates": "2025年10月31日（金）18:00〜21:00",
+   "venue": "九州大学 大橋キャンパス 音響特殊棟 録音スタジオ",
+   "credits": [
+    {
+     "role": "主催",
+     "names": [
+      "九州大学大学院芸術工学研究院 音響設計コース 音文化学講座"
+     ]
+    },
+    {
+     "role": "共催",
+     "names": [
+      "「芸術×科学による分野横断型高度クリエイティブ人材育成プログラム」DANC クリエイティブ融合コア"
+     ]
+    },
+    {
+     "role": "出演",
+     "names": [
+      "伊東篤宏"
+     ]
+    }
+   ],
+   "summary": "伊東篤宏によるライブパフォーマンス＆トークセッション「誤用のススメ」。入場無料（定員50名）。",
+   "sections": [],
+   "unresolved": [],
+   "sources": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-251031.peatix.com/"
+    },
+    {
+     "label": "城研究室のイベント一覧",
+     "url": "https://www.design.kyushu-u.ac.jp/~jo/posts/events/"
+    }
+   ],
+   "wayback_paths": [],
+   "assets": [],
+   "archive": null
+  },
+  {
+   "id": "251115",
+   "year": 2025,
+   "title": "freq – 251115",
+   "status": "確定",
+   "dates": "2025年11月15日（土）18:30〜21:30",
+   "venue": "九州大学 大橋キャンパス 音響特殊棟 録音スタジオ",
+   "credits": [
+    {
+     "role": "主催",
+     "names": [
+      "九州大学大学院芸術工学研究院 音響設計コース 音文化学講座"
+     ]
+    },
+    {
+     "role": "共催",
+     "names": [
+      "「芸術×科学による分野横断型高度クリエイティブ人材育成プログラム」DANC クリエイティブ融合コア"
+     ]
+    },
+    {
+     "role": "出演",
+     "names": [
+      "Daisuke Tanabe",
+      "Yosi Horikawa",
+      "羽田寛士",
+      "城一裕"
+     ]
+    }
+   ],
+   "summary": "Daisuke Tanabe『Hole on Layers』、Yosi Horikawa の最新作をめぐるミニライブ＆トークセッション。入場無料（定員50名）。",
+   "sections": [],
+   "unresolved": [],
+   "sources": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-251115.peatix.com/"
+    },
+    {
+     "label": "城研究室のイベント一覧",
+     "url": "https://www.design.kyushu-u.ac.jp/~jo/posts/events/"
+    }
+   ],
+   "wayback_paths": [],
+   "assets": [],
+   "archive": null
+  },
+  {
+   "id": "251128",
+   "year": 2025,
+   "title": "freq – 251128「Manipulating Life」",
+   "status": "確定",
+   "dates": "2025年11月28日（金）18:00〜21:00",
+   "venue": "九州大学 大橋キャンパス 音響特殊棟 録音スタジオ",
+   "credits": [
+    {
+     "role": "主催",
+     "names": [
+      "九州大学大学院芸術工学研究院 音響設計コース 音文化学講座"
+     ]
+    },
+    {
+     "role": "共催",
+     "names": [
+      "「芸術×科学による分野横断型高度クリエイティブ人材育成プログラム」DANC クリエイティブ融合コア"
+     ]
+    }
+   ],
+   "summary": "バイオロボティクスとサウンドアートの分野を先導するアーティスト、ネイサン・ジョン・トンプソンによるトークセッションとライブパフォーマンス。入場無料（定員50名）。",
+   "sections": [
+    {
+     "heading": "プログラム",
+     "items": [
+      "トークセッション（ネイサン・ジョン・トンプソン、増田展大、城一裕）",
+      "ライブ・パフォーマンス（vvkapipo、ネイサン・ジョン・トンプソン）"
+     ]
+    }
+   ],
+   "unresolved": [],
+   "sources": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-251128.peatix.com/"
+    },
+    {
+     "label": "城研究室のイベント一覧",
+     "url": "https://www.design.kyushu-u.ac.jp/~jo/posts/events/"
+    }
+   ],
+   "wayback_paths": [],
+   "assets": [],
+   "archive": null
+  },
+  {
+   "id": "251205",
+   "year": 2025,
+   "title": "freq – 251205",
+   "status": "確定",
+   "dates": "2025年12月5日（金）18:00〜22:00",
+   "venue": "九州大学 大橋キャンパス 多次元デザイン実験棟",
+   "credits": [
+    {
+     "role": "主催",
+     "names": [
+      "九州大学大学院芸術工学研究院 音響設計コース 音文化学講座"
+     ]
+    },
+    {
+     "role": "共催",
+     "names": [
+      "「芸術×科学による分野横断型高度クリエイティブ人材育成プログラム」DANC クリエイティブ融合コア"
+     ]
+    },
+    {
+     "role": "出演",
+     "names": [
+      "MARK FELL",
+      "RIAN TREANOR",
+      "日野浩志郎",
+      "中川裕貴"
+     ]
+    }
+   ],
+   "summary": "MARK FELL、RIAN TREANOR、日野浩志郎、中川裕貴を迎えたライブパフォーマンス。入場無料（定員100名）。",
+   "sections": [],
+   "unresolved": [],
+   "sources": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-251205.peatix.com/"
+    },
+    {
+     "label": "城研究室のイベント一覧",
+     "url": "https://www.design.kyushu-u.ac.jp/~jo/posts/events/"
+    }
+   ],
+   "wayback_paths": [],
+   "assets": [],
+   "archive": null
+  },
+  {
+   "id": "251208",
+   "year": 2025,
+   "title": "freq – 251208",
+   "status": "確定",
+   "dates": "2025年12月8日（月）18:00〜20:30",
+   "venue": "九州大学 大橋キャンパス 音響特殊棟 録音スタジオ",
+   "credits": [
+    {
+     "role": "主催",
+     "names": [
+      "九州大学大学院芸術工学研究院 音響設計コース 音文化学講座"
+     ]
+    },
+    {
+     "role": "共催",
+     "names": [
+      "「芸術×科学による分野横断型高度クリエイティブ人材育成プログラム」DANC クリエイティブ融合コア"
+     ]
+    },
+    {
+     "role": "出演",
+     "names": [
+      "kyoka"
+     ]
+    }
+   ],
+   "summary": "kyoka（Alva Noto 主宰のドイツの実験レーベル Raster-Noton に所属した初の女性アーティスト）によるマルチチャンネル音響作品《Resonant Drift》の上演とトークセッション。入場無料（定員25名）。",
+   "sections": [],
+   "unresolved": [],
+   "sources": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-251208.peatix.com/"
+    },
+    {
+     "label": "城研究室のイベント一覧",
+     "url": "https://www.design.kyushu-u.ac.jp/~jo/posts/events/"
+    }
+   ],
+   "wayback_paths": [],
+   "assets": [],
+   "archive": null
+  },
+  {
+   "id": "260220",
+   "year": 2026,
+   "title": "freq – 260220「The Persistent Signal: Articulating Artistic and Curatorial Practice in Sound Art」",
+   "status": "確定",
+   "dates": "2026年2月17日（火）〜20日（金）（20日 15:30〜20:30）",
+   "venue": "九州大学 大橋キャンパス 音響特殊棟 録音スタジオほか",
+   "credits": [
+    {
+     "role": "主催",
+     "names": [
+      "九州大学大学院芸術工学研究院",
+      "「芸術×科学による分野横断型高度クリエイティブ人材育成プログラム」（共催）"
+     ]
+    }
+   ],
+   "summary": "3日間にわたり、レクチャー、展覧会、コンサート、最終日のシンポジウムを通して、サウンド・アートにおける芸術実践およびキュラトリアル実践の批評的・実験的なアプローチを検討するプログラム。",
+   "sections": [
+    {
+     "heading": "2月20日",
+     "items": [
+      "15:30–18:00 コンサート（畠中実およびワークショップ参加者。ゲスト・パフォーマンス：dj sniff、Tomeka Reid）",
+      "18:30–20:30 シンポジウム（英語。パネル1「On Reenactments」登壇：畠中実、Carsten Seiffarth ほか）"
+     ]
+    }
+   ],
+   "unresolved": [],
+   "sources": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-260220.peatix.com/"
+    },
+    {
+     "label": "城研究室のイベント一覧",
+     "url": "https://www.design.kyushu-u.ac.jp/~jo/posts/events/"
+    }
+   ],
+   "wayback_paths": [],
+   "assets": [],
+   "archive": null
+  },
+  {
+   "id": "260313",
+   "year": 2026,
+   "title": "freq – 260313《Fire in Water》",
+   "status": "確定",
+   "dates": "2026年3月13日（金）17:30〜20:00",
+   "venue": "九州大学 大橋キャンパス",
+   "credits": [
+    {
+     "role": "主催",
+     "names": [
+      "九州大学大学院芸術工学研究院 音響設計コース 音文化学講座"
+     ]
+    },
+    {
+     "role": "出演",
+     "names": [
+      "秋吉康晴",
+      "城一裕",
+      "永田康祐"
+     ]
+    }
+   ],
+   "summary": "城一裕＋永田康祐による展覧会「Fire in Water」の開催に合わせ、永田による同名の映像作品《Fire in Water》(2025)（日本統治下の朝鮮半島における稲作や酒造の調査をもとにしたドキュメンタリー・ヴィデオエッセイ）のスクリーニングと、聴覚文化論の研究者・秋吉康晴を迎えたトークセッション。",
+   "sections": [],
+   "unresolved": [],
+   "sources": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-260313.peatix.com/"
+    },
+    {
+     "label": "城研究室のイベント一覧",
+     "url": "https://www.design.kyushu-u.ac.jp/~jo/posts/events/"
+    }
+   ],
+   "wayback_paths": [],
+   "assets": [],
+   "archive": null
+  },
+  {
+   "id": "260419",
+   "year": 2026,
+   "title": "上映とディスカッション「動いている庭」から「語りかける庭」へ",
+   "status": "確定",
+   "dates": "2026年4月19日（日）13:00〜18:00",
+   "venue": "九州大学 大橋キャンパス",
+   "credits": [
+    {
+     "role": "主催",
+     "names": [
+      "庭園アーカイヴ・プロジェクト",
+      "九州大学大学院芸術工学研究院 音響設計コース 音文化学講座"
+     ]
+    }
+   ],
+   "summary": "庭園アーカイヴ・プロジェクトと音文化学講座による上映とディスカッション。ドキュメンタリー映画《動いている庭》（監督：澤崎賢一、製作：エマニュエル・マレス、2016、85分）、映像作品「語りかける庭」の上映、アンビソニックスによる庭園音源の上演、ディスカッション。",
+   "sections": [
+    {
+     "heading": "プログラム",
+     "items": [
+      "第1部 13:00–14:00 アンビソニックス庭園音源上演／14:00–15:30 映画「動いている庭」上映／15:30–16:00 アンビソニックス庭園音源上演",
+      "第2部 16:00–16:50 映像作品「語りかける庭」上映／16:50–17:30 ディスカッション（エマニュエル・マレス、澤崎賢一、城一裕、増田展大、原瑠璃彦）／17:30–18:00 アンビソニックス庭園音源上演"
+     ]
+    }
+   ],
+   "unresolved": [],
+   "sources": [
+    {
+     "label": "Peatix",
+     "url": "https://niwa-260419.peatix.com/"
+    }
+   ],
+   "wayback_paths": [],
+   "assets": [],
+   "archive": null,
+   "note": "Peatix の主催者は freq ですが、タイトルに freq は含まれていません。"
+  },
+  {
+   "id": "260520",
+   "year": 2026,
+   "title": "freq – 260520",
+   "status": "確定",
+   "dates": "2026年5月20日（水）18:30〜21:00",
+   "venue": "九州大学 大橋キャンパス",
+   "credits": [
+    {
+     "role": "主催",
+     "names": [
+      "九州大学大学院芸術工学研究院 音響設計コース 音文化学講座"
+     ]
+    },
+    {
+     "role": "共催",
+     "names": [
+      "「芸術×科学による分野横断型高度クリエイティブ人材育成プログラム」DANC クリエイティブ融合コアⅠ"
+     ]
+    }
+   ],
+   "summary": "ロンドンとベルリンを拠点に、電子回路に土壌を組み込む作品を制作するアーティスト Martin Howse によるライブ・パフォーマンス「孤児と空虚（orphans and voids）」とトーク・セッション。",
+   "sections": [
+    {
+     "heading": "プログラム",
+     "items": [
+      "18:30–19:30 ライブ・パフォーマンス（Martin Howse、本学学生ほか）",
+      "19:45–20:30 トークセッション（Martin Howse、城一裕）"
+     ]
+    }
+   ],
+   "unresolved": [],
+   "sources": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-260520.peatix.com/"
+    },
+    {
+     "label": "城研究室のイベント一覧",
+     "url": "https://www.design.kyushu-u.ac.jp/~jo/posts/events/"
+    }
+   ],
+   "wayback_paths": [],
+   "assets": [],
+   "archive": null
+  },
+  {
+   "id": "260530",
+   "year": 2026,
+   "title": "freq – 260530",
+   "status": "確定",
+   "dates": "2026年5月30日（土）16:30〜19:00",
+   "venue": "九州大学 大橋キャンパス",
+   "credits": [
+    {
+     "role": "主催",
+     "names": [
+      "九州大学大学院芸術工学研究院 音響設計コース 音文化学講座"
+     ]
+    },
+    {
+     "role": "共催",
+     "names": [
+      "「芸術×科学による分野横断型高度クリエイティブ人材育成プログラム」DANC クリエイティブ融合コアⅠ"
+     ]
+    }
+   ],
+   "summary": "写真家ホンマタカシのイベントに頻繁に登場する覆面バンド deer revenge によるライブ・パフォーマンスとトーク・セッション。ホンマタカシが撮影した写真のスライドに合わせて演奏する。",
+   "sections": [
+    {
+     "heading": "プログラム",
+     "items": [
+      "17:00–18:00 ライブ・パフォーマンス（林朋紘、deer revenge）",
+      "18:30–20:00 トークセッション（ホンマタカシ、東直子（Pages | Fukuoka Art Book Fair）、城一裕）"
+     ]
+    }
+   ],
+   "unresolved": [],
+   "sources": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-260530.peatix.com/"
+    },
+    {
+     "label": "城研究室のイベント一覧",
+     "url": "https://www.design.kyushu-u.ac.jp/~jo/posts/events/"
+    }
+   ],
+   "wayback_paths": [],
+   "assets": [],
+   "archive": null
+  },
+  {
+   "id": "260605",
+   "year": 2026,
+   "title": "freq – 260605「不思議な音の実験室」",
+   "status": "確定",
+   "dates": "2026年6月5日（金）14:00〜19:30",
+   "venue": "九州大学 大橋キャンパス",
+   "credits": [
+    {
+     "role": "主催",
+     "names": [
+      "九州大学大学院芸術工学研究院 音響設計コース 音文化学講座"
+     ]
+    },
+    {
+     "role": "共催",
+     "names": [
+      "「芸術×科学による分野横断型高度クリエイティブ人材育成プログラム」DANC クリエイティブ融合コアⅠ"
+     ]
+    }
+   ],
+   "summary": "京都を拠点とする「ANTIBODIES Collective」を主宰するカジワラトシオを講師に迎えた「不思議な音の実験室」、Showing、トークセッション。終演後に今泉の Bar Sirocco でアフターパーティー「Close To Me!」（22:30〜）。",
+   "sections": [
+    {
+     "heading": "プログラム",
+     "items": [
+      "14:30–17:00 「不思議な音の実験室」（カジワラトシオ、参加者）",
+      "17:30–18:30 Showing（東野祥子、カジワラトシオ、参加者）",
+      "18:30–19:30 トークセッション（カジワラトシオ、東野祥子、ohagi、城一裕）"
+     ]
+    }
+   ],
+   "unresolved": [],
+   "sources": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-260605.peatix.com/"
+    },
+    {
+     "label": "城研究室のイベント一覧",
+     "url": "https://www.design.kyushu-u.ac.jp/~jo/posts/events/"
+    }
+   ],
+   "wayback_paths": [],
+   "assets": [],
+   "archive": null
+  },
+  {
+   "id": "260611",
+   "year": 2026,
+   "title": "freq – 260611",
+   "status": "確定",
+   "dates": "2026年6月11日（木）18:30〜21:00",
+   "venue": "九州大学 大橋キャンパス",
+   "credits": [
+    {
+     "role": "主催",
+     "names": [
+      "九州大学大学院芸術工学研究院 音響設計コース 音文化学講座"
+     ]
+    },
+    {
+     "role": "共催",
+     "names": [
+      "「芸術×科学による分野横断型高度クリエイティブ人材育成プログラム」DANC クリエイティブ融合コアⅠ"
+     ]
+    },
+    {
+     "role": "出演",
+     "names": [
+      "牧野豊",
+      "徳井直生（DJ）",
+      "城一裕",
+      "北條知子"
+     ]
+    }
+   ],
+   "summary": "ベルリンを主な拠点とする牧野豊の初期の作曲作品を中心としたコンサート（徳井直生による DJ 付き）と、城一裕・北條知子の進行によるアフタートーク。",
+   "sections": [],
+   "unresolved": [],
+   "sources": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-260611.peatix.com/"
+    },
+    {
+     "label": "城研究室のイベント一覧",
+     "url": "https://www.design.kyushu-u.ac.jp/~jo/posts/events/"
+    }
+   ],
+   "wayback_paths": [],
+   "assets": [],
+   "archive": null
+  },
+  {
+   "id": "260612",
+   "year": 2026,
+   "title": "freq – 260612",
+   "status": "確定",
+   "dates": "2026年6月12日（金）18:30〜21:00",
+   "venue": "九州大学 大橋キャンパス",
+   "credits": [
+    {
+     "role": "主催",
+     "names": [
+      "九州大学大学院芸術工学研究院 音響設計コース 音文化学講座"
+     ]
+    },
+    {
+     "role": "共催",
+     "names": [
+      "「芸術×科学による分野横断型高度クリエイティブ人材育成プログラム」DANC クリエイティブ融合コアⅠ"
+     ]
+    },
+    {
+     "role": "出演",
+     "names": [
+      "Krikor Kouchian",
+      "FROID DUB",
+      "vvekapipo"
+     ]
+    }
+   ],
+   "summary": "パリを主な拠点とする Krikor Kouchian（Experimental Set）と FROID DUB（Ambient Set）、本学学生の vvekapipo によるパフォーマンスとアフタートーク。翌13日には Bar Sirocco で SEXTANS 主催のツアー公演。",
+   "sections": [],
+   "unresolved": [],
+   "sources": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-260612.peatix.com/"
+    },
+    {
+     "label": "城研究室のイベント一覧",
+     "url": "https://www.design.kyushu-u.ac.jp/~jo/posts/events/"
+    }
+   ],
+   "wayback_paths": [],
+   "assets": [],
+   "archive": null
+  },
+  {
+   "id": "260711",
+   "year": 2026,
+   "title": "freq – 260711",
+   "status": "確定",
+   "dates": "2026年7月11日（土）15:00〜20:00",
+   "venue": "九州大学 大橋キャンパス",
+   "credits": [
+    {
+     "role": "主催",
+     "names": [
+      "九州大学大学院芸術工学研究院 音響設計コース 音文化学講座"
+     ]
+    },
+    {
+     "role": "共催",
+     "names": [
+      "「芸術×科学による分野横断型高度クリエイティブ人材育成プログラム」DANC クリエイティブ融合コアⅠ"
+     ]
+    }
+   ],
+   "summary": "台湾のオーディオヴィジュアル・デュオ [HH] の YEH Ting-Hao（PUTA）への追悼として、YAO Chung-Han と Kelly.Shan が [HH] のアルバム『Remotion』をもとに行うライブ・オーディオヴィジュアル・インプロヴィゼーション、山元汰央、城一裕《紙のテープ》《紙のレコード》の演奏、および台湾のオーディオビジュアル・アートをめぐるトーク。",
+   "sections": [
+    {
+     "heading": "プログラム",
+     "items": [
+      "17:00–18:30 ライブ・パフォーマンス（城一裕、山元汰央、Kelly.Shan + YAO Chung-Han）",
+      "18:45–19:30 トークセッション"
+     ]
+    }
+   ],
+   "unresolved": [],
+   "sources": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-260711.peatix.com/"
+    },
+    {
+     "label": "城研究室のイベント一覧",
+     "url": "https://www.design.kyushu-u.ac.jp/~jo/posts/events/"
+    }
+   ],
+   "wayback_paths": [],
+   "assets": [],
+   "archive": null
+  },
+  {
+   "id": "260725",
+   "year": 2026,
+   "title": "freq – 260725「音の始源を求めて Presents 立体音響とノイズ」",
+   "status": "確定",
+   "dates": "2026年7月25日（土）12:00〜20:00",
+   "venue": "九州大学 大橋キャンパス",
+   "credits": [
+    {
+     "role": "主催",
+     "names": [
+      "九州大学大学院芸術工学研究院 音響設計コース 音文化学講座"
+     ]
+    },
+    {
+     "role": "共催",
+     "names": [
+      "音の始源を求めて",
+      "「芸術×科学による分野横断型高度クリエイティブ人材育成プログラム」DANC クリエイティブ融合コアⅠ"
+     ]
+    }
+   ],
+   "summary": "1950年代半ばに設立された NHK 電子音楽スタジオの電子音楽作品を立体音響で再生・検証する8時間のコンサート。テーマは「ノイズ・ミュージック以前のノイズ・ミュージック」。一部のプログラムで大音量再生を予定。",
+   "sections": [],
+   "unresolved": [],
+   "sources": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-260725.peatix.com/"
+    },
+    {
+     "label": "城研究室のイベント一覧",
+     "url": "https://www.design.kyushu-u.ac.jp/~jo/posts/events/"
+    }
+   ],
+   "wayback_paths": [],
+   "assets": [],
+   "archive": null
+  },
+  {
+   "id": "261014",
+   "year": 2026,
+   "title": "freq – 261014 Stefan Goldmann",
+   "status": "確定",
+   "dates": "2026年10月14日（水）19:00〜21:00",
+   "venue": "九州大学 大橋キャンパス",
+   "credits": [
+    {
+     "role": "主催",
+     "names": [
+      "九州大学大学院芸術工学研究院 音響設計コース 音文化学講座"
+     ]
+    },
+    {
+     "role": "共催",
+     "names": [
+      "「芸術×科学による分野横断型高度クリエイティブ人材育成プログラム」DANC クリエイティブ融合コアⅠ"
+     ]
+    }
+   ],
+   "summary": "ベルリンを拠点とする作曲家・電子音楽家 Stefan Goldmann を迎えたライブ・パフォーマンス（ZOEMO による DJ を含む）と、城一裕を聞き手とするトークセッション。",
+   "sections": [
+    {
+     "heading": "プログラム",
+     "items": [
+      "19:00 開場",
+      "19:00–19:45 ZOEMO（DJ）",
+      "19:45–20:30 Stefan Goldmann（Live Set）",
+      "20:30–21:00 トークセッション（Stefan Goldmann、ZOEMO、城一裕）"
+     ]
+    }
+   ],
+   "unresolved": [],
+   "sources": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-261014.peatix.com/"
+    }
+   ],
+   "wayback_paths": [],
+   "assets": [],
+   "archive": null
+  },
+  {
+   "id": "261024",
+   "year": 2026,
+   "title": "freq – 261024 SUGAI KEN",
+   "status": "確定",
+   "dates": "2026年10月24日（土）18:00〜20:30",
+   "venue": "九州大学 大橋キャンパス",
+   "credits": [
+    {
+     "role": "主催",
+     "names": [
+      "九州大学大学院芸術工学研究院 音響設計コース 音文化学講座"
+     ]
+    },
+    {
+     "role": "共催",
+     "names": [
+      "「芸術×科学による分野横断型高度クリエイティブ人材育成プログラム」DANC クリエイティブ融合コアⅠ"
+     ]
+    }
+   ],
+   "summary": "神奈川県を拠点に活動するトラックメイカー SUGAI KEN によるライブセットと、城一裕を聞き手とするトークセッション。",
+   "sections": [
+    {
+     "heading": "プログラム",
+     "items": [
+      "18:00 開場",
+      "18:30–19:30 SUGAI KEN（ライブ）",
+      "19:45–20:30 トークセッション（SUGAI KEN、城一裕）"
+     ]
+    }
+   ],
+   "unresolved": [],
+   "sources": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-261024.peatix.com/"
+    }
+   ],
+   "wayback_paths": [],
+   "assets": [],
+   "archive": null
+  },
+  {
+   "id": "261128",
+   "year": 2026,
+   "title": "freq 25周年 ―「かつて」と「いま」、記憶から記録へ",
+   "status": "予定",
+   "dates": "2026年11月28日（土）〜29日（日）",
+   "venue": "九州大学 大橋キャンパス（音響特殊棟 録音スタジオ、多次元デザイン実験棟 実験ホール）",
+   "credits": [
+    {
+     "role": "主催",
+     "names": [
+      "九州大学大学院芸術工学研究院",
+      "「芸術×科学による分野横断型高度クリエイティブ人材育成プログラム」"
+     ]
+    },
+    {
+     "role": "助成",
+     "names": [
+      "文化芸術活動基盤強化基金「クリエイター等支援事業（育成プログラム構築・実践）」",
+      "日本学術振興会科研費 [23K17267]"
+     ]
+    }
+   ],
+   "summary": "freq 25周年を記念した、トーク・セッション、上映会、ライブ・コンサート。2000年代初頭の音楽と映像、当時のソフトウェアとコミュニティ、オーディオビジュアルというジャンルの成立、そして四半世紀後の現在形をめぐる当事者による2部構成のトークを行い、議論をテキストにまとめて「記憶から記録へ」移し替える。入場無料（予約制）。",
+   "sections": [
+    {
+     "heading": "11月28日（土）",
+     "items": [
+      "トーク・セッション「かつて」（音響特殊棟 録音スタジオ）13:30–15:30：「Max/MSPとnato.0+55」kashi、古舘健、堀切潤 ほか／「freqの変遷 - 2001-2026」堀尾寛太、藤岡定、新美太基 ほか／「ソフトウェアをつくるということ」徳井直生、永野哲久、藤岡定、松浦知也 ほか",
+      "上映会「きかない、みない。かんじること。」by portable[k]ommunity（堀切潤＋澤井妙治）（多次元デザイン実験棟 実験ホール）16:00–17:00、アフタートーク 17:00–17:30（堀切潤（ex-p[k]）、城一裕ほか）",
+      "ライブ・コンサート-1（実験ホール）18:00–21:00：Ken Furudate、堀尾寛太、太田遥月、藤岡定、ほか（TBA）"
+     ]
+    },
+    {
+     "heading": "11月29日（日）",
+     "items": [
+      "トーク・セッション「いま」（録音スタジオ）14:30–16:30：「オーディオとヴィジュアル」古舘健、松本典子、山元汰央、髙橋侑大 ほか／「25年後の現場から」evala、原真人、太田遥月 ほか／「記憶から記録へ」",
+      "ライブ・コンサート-2（実験ホール）17:00–20:00：evala、松浦知也、新美太基、島瑠翔、相崎玲穏、山﨑涼光（光光機構）、後藤汰誓、ほか（TBA）",
+      "CODED #3 / freq after party（Bar Sirocco、福岡市中央区薬院1-16-17）22:00–2:00　DJ：Nao Tokui、Ken Furudate ほか　Entrance: ¥1,000"
+     ]
+    }
+   ],
+   "unresolved": [],
+   "sources": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-261128.peatix.com/"
+    }
+   ],
+   "wayback_paths": [],
+   "assets": [],
+   "archive": null
+  }
+ ]
+}

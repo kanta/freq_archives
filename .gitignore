@@ -1,0 +1,10 @@
+# 未加工の原本（個人のメールアドレス・電話番号を含む）
+sites/
+_to_delete/
+
+# 作業用の指示書・メモ
+BRIEF_archive_site.md
+
+# OS / エディタ
+.DS_Store
+__pycache__/

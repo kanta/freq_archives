@@ -1,0 +1,95 @@
+<HTML>
+<HEAD>
+<TITLE>f r e q / f a q</TITLE>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<STYLE type="text/css">
+<!--
+.text {  line-height: 150%; font-size: 10pt; color: #CCCCCC; }
+.header {  font-family: "Times New Roman", "Times", "serif"; font-size: 36pt; color: #FF6600}
+.sub {  font-family: "Times New Roman", "Times", "serif"; font-size: 8pt; color: #CCCCCC}-->
+ -->
+</STYLE>
+</HEAD>
+<BODY bgcolor="#666666" link="#0099FF" vlink="#0099FF" alink="#FF6600">
+<div id="freq-archive-band" style="background:#666666;color:#ffffff;font:12px/1.7 -apple-system,'Hiragino Sans',Meiryo,sans-serif;padding:5px 12px;text-align:left;border-bottom:2px solid #FF6600;position:relative;z-index:10;">これは freq 2001 の当時のWebサイトのアーカイブです（2007年6月時点の記録）。 <a href="../../index.html" style="color:#ffffff;text-decoration:underline;">freq archive 2001– の一覧へ</a></div>
+
+<TABLE border="0" cellspacing="50" cellpadding="0" align="center" width="85%">
+  <TR> 
+    <TD valign="middle" colspan="2"> 
+      <IMG src="img/freqLOGOfin.gif" width="512" height="128" alt="f r e q 「プログラムが表現する音と映像」 "> <BR>
+
+<FONT class="sub"> 　Kyushu Institute of Design Max Seminar Presents</FONT> 
+
+<P><FONT CLASS="text"> <B><A href="index.html">t o p</A>/<A href="theme.html">テーマ</A>/<A href="date.html">日程</A>/<A href="profile.html">プロフィール</A>/<A href="participation.html">参加募集</A>/<A href="faq.html">f 
+
+a q</A>/<A href="links.html">リンク</A></B> </FONT>
+<br /><br />
+<FONT class="text">
+<B>Q．Max？</B><BR clear="all" /></font>
+<table border="0" cellspacing="0" cellpadding="0">
+<tr><td>
+<font class="text">Maxというのは、ソフトウェアの名前です。MIDI (シンセサイザー間での情報のやりとりの規格) を中心としたプログラムをつくることができます。プログラムといってもとても簡単で、基本は、「オブジェクト」と呼ばれる、何かしらの機能を持った四角、</font>
+</td></tr>
+<tr><td height="17">
+<img src="image/object.gif" width="66" height="17" alt="object" />
+</td></tr>
+<tr><td>
+<font class="text">↑こんなのを自由にウィンドウ上に配置して、それらを線でつなぐことによってプログラムします。例えば、こんな感じです。<br /><br /></font>
+</td></tr>
+
+<tr><td height="341">
+<img src="image/demomax.gif" width="273" height="341" alt="max example" />
+</td></tr>
+
+<tr><td><font class="text">
+みたら分かるのではないかと思いますが、オブジェクトの上の黒いところが入力で、下の黒いところが出力。いろんな機能をもったオブジェクトが用意されていて、それらを画面上でどんどん組み合わせていくことができます。MIDI信号の入力 / 出力のオブジェクトも豊富に用意されています。<br />
+これらを使って、例えば自分で考えた規則に従った自動音楽生成装置や、毎回結果が異なる、楽譜やCDのような固定された時間にとらわれない音楽をつくるプログラムなどなど、既存のシーケンサ・プログラムでは不可能なありとあらゆる実験が可能なのです。そして、Maxのプログラム(パッチと呼ばれています)は、とても視覚的に表されているので、思いついたらすぐに簡単に試すことができます。<br />
+Maxを使って音楽をつくるということは、音楽を作るためのツールを自分でつくる、ということです。なにか独創的なものをつくってみたい！という人にぴったりのソフトウェアなのです。<br />
+Maxは基本的にMIDIを中心に扱うので、結果として出てくる音は、Maxに接続されるシンセサイザなどによります。Maxが出力しているのは基本的に音程や音量などの情報で、出てくる音響よりも音楽としての構造に着目している、といえるでしょう。</font>
+</td></tr>
+</table>
+<br>
+<FONT class="text"><B>Q．MSPは？</B><BR>
+<table border="0" cellspacing="0" cellpadding="0">
+<tr><td>
+<font class="text">
+これは、Max用のエクスターナル・オブジェクト集。つまり、オプションで買えるオブジェクト（あの四角形）集です。これを加えると、直接、音を操作することが可能になります。つまり、自分でシンセサイザやエフェクタを組み立てることができるようなものです。マイクから音を取り込み、それをさまざまに加工してスピーカから出力してみる、というようなことができるのです。ちょっと画面を見てみると、<br /><br />
+</font></td></tr>
+<tr><td height="369"><img src="image/demomsp.gif" width="356" height="369" alt="msp example" /></td></tr>
+<tr><td><font class="text">
+マイクやスピーカの絵が見えると思いますが、それにつながっている黄色い線から音が出たり入ったりしているのです。もちろんMaxと共存できます。ちなみにオブジェクトの名前の最後に”~”がついているのがMSPのオブジェクトですね。もうここまでくると、サンプラ、ボコーダ、ミキサー、などなど、不可能なモノはありません。理論的には。<br />
+現実には、コンピュータのパワー次第。そして、パッチを作る人間の能力次第です。<br />
+MSPはFFT (高速フーリエ変換) なども可能で、かなり強力なDSP (ディジタル信号処理) 環境です。そしてこれらを Max を介して音楽的なアイデアと融合させることができるのです。
+
+</FONT>
+ 
+</td></tr></table>
+<br>
+<FONT class="text"><B>Q．では、natoとは？</b></font><BR />
+<table border="0" cellspacing="0" cellpadding="0">
+<tr><td><FONT class="text">
+MSPと同じく、Max用のオブジェクト集です。これは、Maxで映像を生成することを可能にします。さらに、ネットワーク関連の機能を持ったオブジェクトもあります。nato.は、ビデオミキサも可能であり、ビデオエフェクタも制作可能であり、もうかなりすごいのですが、なにせ私は持っていませんので、natoを持っておられる方から画像を拝借してきました。<br /><br />
+</font></td></tr>
+
+<tr><td height="517"><img src="image/f04_05.gif" width="445" height="517" alt="nato. image" /></td></tr>
+
+<tr><td><font class="text">
+<br>
+このような映像処理が、MaxやMSPと共存した形で実現可能です。すごい。言い忘れていましたが、MaxもMSPもnatoも、すべてリアルタイムで動作するんですよ。<br />
+この写真を提供していただいた斎藤さんのサイトは、MSPとnatoについてのすばらしいチュートリアルになっています。興味を持たれた方はぜひ、<a href="http://www.shonan.ne.jp/%7Ehiro-s/">Saito Music Lab.</a>でゆっくり堪能してください。
+
+<br /><br />
+<div align="right">文責　堀尾 寛太</div>
+</FONT>
+
+</td></tr></table>
+
+
+
+      <P><FONT class="text">P.S.<br />以上三点については他のところで書いた<A href="nato.html">文章</A>があるので，そちらも読んでみてください。　（城）</FONT></P>
+  
+      </TD>
+  </TR>
+</TABLE>
+</BODY>
+</HTML>
