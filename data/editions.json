@@ -774,7 +774,13 @@
     "id": "2010",
     "entry": "index.html",
     "label": "freq2010 のWebサイト"
-   }
+   },
+   "links": [
+    {
+     "label": "九大芸工",
+     "url": "https://www.design.kyushu-u.ac.jp/topics/6032/"
+    }
+   ]
   },
   {
    "id": "2011",
@@ -1343,7 +1349,17 @@
    ],
    "wayback_paths": [],
    "assets": [],
-   "archive": null
+   "archive": null,
+   "links": [
+    {
+     "label": "Peatix",
+     "url": "https://feldmanmeetsfreq.peatix.com/"
+    },
+    {
+     "label": "九大芸工",
+     "url": "https://www.design.kyushu-u.ac.jp/topics/13236/"
+    }
+   ]
   },
   {
    "id": "230128",
@@ -1374,6 +1390,12 @@
    "wayback_paths": [],
    "assets": [],
    "archive": null,
+   "links": [
+    {
+     "label": "Peatix",
+     "url": "https://olayshi-nihild-llluuu.peatix.com/"
+    }
+   ],
    "note": "Peatix の主催者は freq ですが、タイトルに freq は含まれていません。"
   },
   {
@@ -1422,7 +1444,13 @@
    ],
    "wayback_paths": [],
    "assets": [],
-   "archive": null
+   "archive": null,
+   "links": [
+    {
+     "label": "Peatix",
+     "url": "https://freq2023.peatix.com/"
+    }
+   ]
   },
   {
    "id": "230513",
@@ -1454,6 +1482,12 @@
    "wayback_paths": [],
    "assets": [],
    "archive": null,
+   "links": [
+    {
+     "label": "Peatix",
+     "url": "https://stain.peatix.com/"
+    }
+   ],
    "note": "Peatix の主催者は freq ですが、タイトルに freq は含まれていません。"
   },
   {
@@ -1508,7 +1542,13 @@
    ],
    "wayback_paths": [],
    "assets": [],
-   "archive": null
+   "archive": null,
+   "links": [
+    {
+     "label": "Peatix",
+     "url": "https://230813freq.peatix.com/"
+    }
+   ]
   },
   {
    "id": "231020",
@@ -1548,7 +1588,13 @@
    ],
    "wayback_paths": [],
    "assets": [],
-   "archive": null
+   "archive": null,
+   "links": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-231020.peatix.com/"
+    }
+   ]
   },
   {
    "id": "240512",
@@ -1590,7 +1636,13 @@
    ],
    "wayback_paths": [],
    "assets": [],
-   "archive": null
+   "archive": null,
+   "links": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-240512.peatix.com/"
+    }
+   ]
   },
   {
    "id": "240530",
@@ -1630,7 +1682,13 @@
    ],
    "wayback_paths": [],
    "assets": [],
-   "archive": null
+   "archive": null,
+   "links": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-240530.peatix.com/"
+    }
+   ]
   },
   {
    "id": "240613",
@@ -1670,7 +1728,13 @@
    ],
    "wayback_paths": [],
    "assets": [],
-   "archive": null
+   "archive": null,
+   "links": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-240613.peatix.com/"
+    }
+   ]
   },
   {
    "id": "240713",
@@ -1709,7 +1773,13 @@
    ],
    "wayback_paths": [],
    "assets": [],
-   "archive": null
+   "archive": null,
+   "links": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-240713.peatix.com/"
+    }
+   ]
   },
   {
    "id": "240807",
@@ -1752,7 +1822,13 @@
    ],
    "wayback_paths": [],
    "assets": [],
-   "archive": null
+   "archive": null,
+   "links": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-240807.peatix.com/"
+    }
+   ]
   },
   {
    "id": "240914",
@@ -1801,7 +1877,13 @@
    ],
    "wayback_paths": [],
    "assets": [],
-   "archive": null
+   "archive": null,
+   "links": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-2409.peatix.com/"
+    }
+   ]
   },
   {
    "id": "241101",
@@ -1823,6 +1905,12 @@
    "wayback_paths": [],
    "assets": [],
    "archive": null,
+   "links": [
+    {
+     "label": "Peatix",
+     "url": "https://niwa-241101.peatix.com/"
+    }
+   ],
    "note": "Peatix の主催者は freq ですが、タイトルに freq は含まれていません。"
   },
   {
@@ -1862,7 +1950,13 @@
    ],
    "wayback_paths": [],
    "assets": [],
-   "archive": null
+   "archive": null,
+   "links": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-241128.peatix.com/"
+    }
+   ]
   },
   {
    "id": "250314",
@@ -1921,7 +2015,13 @@
    ],
    "wayback_paths": [],
    "assets": [],
-   "archive": null
+   "archive": null,
+   "links": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-250511.peatix.com/"
+    }
+   ]
   },
   {
    "id": "250823",
@@ -1968,7 +2068,13 @@
    ],
    "wayback_paths": [],
    "assets": [],
-   "archive": null
+   "archive": null,
+   "links": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-250823.peatix.com/"
+    }
+   ]
   },
   {
    "id": "251011",
@@ -2013,7 +2119,13 @@
    ],
    "wayback_paths": [],
    "assets": [],
-   "archive": null
+   "archive": null,
+   "links": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-251011.peatix.com/"
+    }
+   ]
   },
   {
    "id": "251023",
@@ -2057,7 +2169,13 @@
    ],
    "wayback_paths": [],
    "assets": [],
-   "archive": null
+   "archive": null,
+   "links": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-251023.peatix.com/"
+    }
+   ]
   },
   {
    "id": "251031",
@@ -2101,7 +2219,13 @@
    ],
    "wayback_paths": [],
    "assets": [],
-   "archive": null
+   "archive": null,
+   "links": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-251031.peatix.com/"
+    }
+   ]
   },
   {
    "id": "251115",
@@ -2148,7 +2272,13 @@
    ],
    "wayback_paths": [],
    "assets": [],
-   "archive": null
+   "archive": null,
+   "links": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-251115.peatix.com/"
+    }
+   ]
   },
   {
    "id": "251128",
@@ -2194,7 +2324,13 @@
    ],
    "wayback_paths": [],
    "assets": [],
-   "archive": null
+   "archive": null,
+   "links": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-251128.peatix.com/"
+    }
+   ]
   },
   {
    "id": "251205",
@@ -2241,7 +2377,13 @@
    ],
    "wayback_paths": [],
    "assets": [],
-   "archive": null
+   "archive": null,
+   "links": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-251205.peatix.com/"
+    }
+   ]
   },
   {
    "id": "251208",
@@ -2285,7 +2427,13 @@
    ],
    "wayback_paths": [],
    "assets": [],
-   "archive": null
+   "archive": null,
+   "links": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-251208.peatix.com/"
+    }
+   ]
   },
   {
    "id": "260220",
@@ -2326,7 +2474,13 @@
    ],
    "wayback_paths": [],
    "assets": [],
-   "archive": null
+   "archive": null,
+   "links": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-260220.peatix.com/"
+    }
+   ]
   },
   {
    "id": "260313",
@@ -2366,7 +2520,13 @@
    ],
    "wayback_paths": [],
    "assets": [],
-   "archive": null
+   "archive": null,
+   "links": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-260313.peatix.com/"
+    }
+   ]
   },
   {
    "id": "260419",
@@ -2404,6 +2564,12 @@
    "wayback_paths": [],
    "assets": [],
    "archive": null,
+   "links": [
+    {
+     "label": "Peatix",
+     "url": "https://niwa-260419.peatix.com/"
+    }
+   ],
    "note": "Peatix の主催者は freq ですが、タイトルに freq は含まれていません。"
   },
   {
@@ -2450,7 +2616,17 @@
    ],
    "wayback_paths": [],
    "assets": [],
-   "archive": null
+   "archive": null,
+   "links": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-260520.peatix.com/"
+    },
+    {
+     "label": "DANC",
+     "url": "https://danc.kyushu-u.ac.jp/events/freq-260520/"
+    }
+   ]
   },
   {
    "id": "260530",
@@ -2496,7 +2672,17 @@
    ],
    "wayback_paths": [],
    "assets": [],
-   "archive": null
+   "archive": null,
+   "links": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-260530.peatix.com/"
+    },
+    {
+     "label": "DANC",
+     "url": "https://danc.kyushu-u.ac.jp/events/freq-260530/"
+    }
+   ]
   },
   {
    "id": "260605",
@@ -2543,7 +2729,17 @@
    ],
    "wayback_paths": [],
    "assets": [],
-   "archive": null
+   "archive": null,
+   "links": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-260605.peatix.com/"
+    },
+    {
+     "label": "DANC",
+     "url": "https://danc.kyushu-u.ac.jp/events/freq-260605/"
+    }
+   ]
   },
   {
    "id": "260611",
@@ -2590,7 +2786,17 @@
    ],
    "wayback_paths": [],
    "assets": [],
-   "archive": null
+   "archive": null,
+   "links": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-260611.peatix.com/"
+    },
+    {
+     "label": "DANC",
+     "url": "https://danc.kyushu-u.ac.jp/events/freq-260611/"
+    }
+   ]
   },
   {
    "id": "260612",
@@ -2636,7 +2842,17 @@
    ],
    "wayback_paths": [],
    "assets": [],
-   "archive": null
+   "archive": null,
+   "links": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-260612.peatix.com/"
+    },
+    {
+     "label": "DANC",
+     "url": "https://danc.kyushu-u.ac.jp/events/freq-260612/"
+    }
+   ]
   },
   {
    "id": "260711",
@@ -2682,7 +2898,17 @@
    ],
    "wayback_paths": [],
    "assets": [],
-   "archive": null
+   "archive": null,
+   "links": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-260711.peatix.com/"
+    },
+    {
+     "label": "DANC",
+     "url": "https://danc.kyushu-u.ac.jp/events/freq-260711/"
+    }
+   ]
   },
   {
    "id": "260725",
@@ -2721,7 +2947,17 @@
    ],
    "wayback_paths": [],
    "assets": [],
-   "archive": null
+   "archive": null,
+   "links": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-260725.peatix.com/"
+    },
+    {
+     "label": "DANC",
+     "url": "https://danc.kyushu-u.ac.jp/events/freq-260725/"
+    }
+   ]
   },
   {
    "id": "261014",
@@ -2765,7 +3001,17 @@
    ],
    "wayback_paths": [],
    "assets": [],
-   "archive": null
+   "archive": null,
+   "links": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-261014.peatix.com/"
+    },
+    {
+     "label": "DANC",
+     "url": "https://danc.kyushu-u.ac.jp/events/freq-261014/"
+    }
+   ]
   },
   {
    "id": "261024",
@@ -2808,7 +3054,17 @@
    ],
    "wayback_paths": [],
    "assets": [],
-   "archive": null
+   "archive": null,
+   "links": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-261024.peatix.com/"
+    },
+    {
+     "label": "DANC",
+     "url": "https://danc.kyushu-u.ac.jp/events/freq-261024/"
+    }
+   ]
   },
   {
    "id": "261128",
@@ -2861,7 +3117,17 @@
    ],
    "wayback_paths": [],
    "assets": [],
-   "archive": null
+   "archive": null,
+   "links": [
+    {
+     "label": "Peatix",
+     "url": "https://freq-261128.peatix.com/"
+    },
+    {
+     "label": "DANC",
+     "url": "https://danc.kyushu-u.ac.jp/events/freq-261128/"
+    }
+   ]
   }
  ]
 }

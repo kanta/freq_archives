@@ -197,11 +197,13 @@ def index_page(entries):
             out.append(f'<li><span class="y">{e(ed["years"])}</span><span class="t"><span class="gap">調査中</span></span><span class="links"></span></li>')
             continue
         links = [f'<a href="editions/{ed["id"]}/index.html">詳細</a>']
+        sites = []
         if ed.get("archive"):
             a = ed["archive"]
-            links.append(f'<a href="archive/{a["id"]}/{a["entry"]}">当時のサイト</a>')
-        else:
-            links.append("<span></span>")
+            sites.append(f'<a href="archive/{a["id"]}/{a["entry"]}">当時のサイト</a>')
+        for l in ed.get("links", []):
+            sites.append(f'<a href="{e(l["url"])}">{e(l["label"])}</a>')
+        links.append(f'<span class="sites">{" ".join(sites)}</span>')
         out.append(f'<li><span class="y">{ed["year"]}</span><span class="t">{e(ed["title"])} {badge(ed["status"])}</span>'
                    f'<span class="links">{" ".join(links)}</span></li>')
     out.append("</ol>")
