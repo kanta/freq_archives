@@ -573,7 +573,12 @@
    "unresolved": [
     "プログラム（チラシ裏面）は見つかっていません。"
    ],
-   "sources": [],
+   "sources": [
+    {
+     "label": "中村滋延「視覚音楽への新たな地平」（先端芸術音楽創作学会会報 Vol.1 No.1）",
+     "url": "https://data.jssa.info/paper/2009v01n01/JSSA2009v01n01_3_Nakamura.pdf"
+    }
+   ],
    "wayback_paths": [
     "sites/design.kyushu-u.ac.jp/~snlab/freq/2008/",
     "sites/design.kyushu-u.ac.jp/~snlab/freq/freq08mini.jpg"
@@ -585,7 +590,8 @@
      "image": true
     }
    ],
-   "archive": null
+   "archive": null,
+   "note": "なお、2008年8月2日にアクロス福岡円形ホールで「freq 08 ワークショップ・コンサート 視覚音楽へのあらたな地平」が行われましたが、中村滋延の報告によると freq シリーズとは別の独立した催しで、過去の上演作品からの選抜が中心でした。"
   },
   {
    "id": "2009",
@@ -762,6 +768,109 @@
    }
   },
   {
+   "id": "2011",
+   "year": 2011,
+   "title": "freq2011 音と音楽の「新しい」かたち",
+   "status": "確定",
+   "dates": "2011年8月7日（日）開場 12:30　活動紹介・公開リハーサル 13:00〜／ライブパフォーマンス 17:00〜",
+   "venue": "九州大学大橋キャンパス 音響特殊棟2F 録音スタジオ（無料）",
+   "credits": [
+    {
+     "role": "主催",
+     "names": [
+      "九州大学中村研究室"
+     ]
+    },
+    {
+     "role": "運営統括",
+     "names": [
+      "小寺未知留"
+     ]
+    },
+    {
+     "role": "参加アーティスト（フライヤーの表記）",
+     "names": [
+      "川尻大輔",
+      "小山桂",
+      "新美太基",
+      "松村智弘",
+      "夏天長",
+      "小島順一",
+      "土下竜人",
+      "長濱裕太郎（予定）"
+     ]
+    },
+    {
+     "role": "運営スタッフ",
+     "names": [
+      "石田耕太郎",
+      "岡田知子",
+      "岸本麻友美",
+      "小寺未知留",
+      "迫田鈴菜",
+      "佐藤李里",
+      "久田茂輝",
+      "藤原尚紀"
+     ]
+    },
+    {
+     "role": "協力",
+     "names": [
+      "TRP",
+      "照明屋"
+     ]
+    },
+    {
+     "role": "デザイン",
+     "names": [
+      "竹内満衣子"
+     ]
+    }
+   ],
+   "summary": "テクノロジーと音・映像の関わり合いから生まれる表現を追求する場として、2001年から毎年開催されてきた freq の2011年版。サウンド・パフォーマンスとインタラクション作品を発表したほか、オープンキャンパスにあわせて公開リハーサルと活動紹介も行いました。",
+   "sections": [
+    {
+     "heading": "展示",
+     "items": [
+      "川尻大輔、松村智弘《Tabémon》",
+      "青木一生《oscillaters》",
+      "長濱裕太郎《orthogo》",
+      "小寺未知留《つぶして捨てなあかんでえ》",
+      "久田茂輝《スクリャービンの世界への誘い》"
+     ]
+    },
+    {
+     "heading": "ライブパフォーマンス",
+     "items": [
+      "川畑泰子、菅原知恵子《Brain Wire》",
+      "小山桂、新美太基《サバカラカリンガ》",
+      "藤原尚紀《M.M》",
+      "土下竜人《ニヌファブシ》"
+     ]
+    }
+   ],
+   "note": "作品はパンフレットの作品解説によります。パンフレットのスケジュール欄では、ライブパフォーマンスとして Brain Wire／Tabémon／ワールドワイドカリンガ族／M.M／ニヌファブシ が並んでおり、作品解説とは名称・区分が一部異なります。参加アーティストはフライヤーの表記で、作品解説の作者とは一部異なります。",
+   "unresolved": [],
+   "sources": [],
+   "wayback_paths": [],
+   "assets": [
+    {
+     "label": "フライヤー（表面）",
+     "path": "assets/2011/freq2011_flyer_front.jpg",
+     "image": true
+    },
+    {
+     "label": "フライヤー（PDF）",
+     "path": "assets/2011/freq2011_flyer.pdf"
+    },
+    {
+     "label": "パンフレット（PDF）",
+     "path": "assets/2011/freq2011_pamphlet.pdf"
+    }
+   ],
+   "archive": null
+  },
+  {
    "id": "2011-rerefreq",
    "year": 2011,
    "title": "re:re:freq（関連イベント）",
@@ -833,9 +942,199 @@
    }
   },
   {
+   "id": "2012",
+   "year": 2012,
+   "title": "freq2012「プログラムが表現する音と映像」",
+   "status": "確定",
+   "dates": "2012年12月8日（土）〜9日（日）開場 15:00／開演 16:00",
+   "venue": "九州大学大橋キャンパス 多次元デザイン実験棟（無料）",
+   "credits": [
+    {
+     "role": "主催",
+     "names": [
+      "九州大学大学院芸術工学研究院 中村研究室"
+     ]
+    },
+    {
+     "role": "共催",
+     "names": [
+      "九州大学大学院 HME育成プログラム"
+     ]
+    },
+    {
+     "role": "運営統括",
+     "names": [
+      "藤原尚紀"
+     ]
+    },
+    {
+     "role": "協力",
+     "names": [
+      "NTT西日本",
+      "TRP",
+      "照明屋",
+      "Rec-lab",
+      "九州大学大学院芸術工学研究院 尾本研究室"
+     ]
+    }
+   ],
+   "summary": "研究室内外のアーティストの作品を、パフォーマンス・ショーケースを中心に上演しました。",
+   "sections": [
+    {
+     "heading": "12月8日",
+     "items": [
+      "中間亮佑《Spatial Looper 2》",
+      "南部晃史《Seq:cross》",
+      "小寺未知留＋南部晃史《Virginie Dedieu》",
+      "冨田勇人（TOM）《talk》",
+      "土下竜人《げんげ》",
+      "城一裕《cutting record - a record without prior acoustic information》（ゲスト）",
+      "invisible designs lab. ＋ anno lab《atmosphere》（ゲスト）"
+     ]
+    },
+    {
+     "heading": "12月9日",
+     "items": [
+      "小島順一《Variation Animals》",
+      "夏天長《都市の歌》",
+      "山田雄也《音声ング》",
+      "久田茂輝《Keyboard Painting》",
+      "藤原尚紀《F(music)》",
+      "小寺未知留《BLT as minimal music》",
+      "中村滋延《Reassembly》",
+      "檜垣智也《こだま(Echos)》"
+     ]
+    },
+    {
+     "heading": "展示",
+     "items": [
+      "船津文弥《Pianino》"
+     ]
+    }
+   ],
+   "note": "プログラムはパンフレットのスケジュールによります。事前のフライヤーでは一部の作品名が異なります（藤原尚紀《Transition》、小寺未知留《感傷的な海》、久田茂輝《Encounter with Sound》、船津文弥《Sound Drawer》、小島順一《V.A.》、檜垣智也《ほのめかし》、中村滋延 映像音響詩《reassembly》、城一裕《Laser Record》）。冨田勇人（TOM）はフライヤーには載っていません。フライヤーに載っている当時のWebページ（nkmrsgnb.info/freq/2012/）は、Wayback Machine に記録がありません。",
+   "unresolved": [],
+   "sources": [],
+   "wayback_paths": [],
+   "assets": [
+    {
+     "label": "フライヤー（表面）",
+     "path": "assets/2012/freq2012_flyer_front.jpg",
+     "image": true
+    },
+    {
+     "label": "フライヤー（PDF）",
+     "path": "assets/2012/freq2012_flyer.pdf"
+    },
+    {
+     "label": "パンフレット（PDF）",
+     "path": "assets/2012/freq2012_pamphlet.pdf"
+    }
+   ],
+   "archive": null
+  },
+  {
    "gap": true,
-   "years": "2011–2017",
-   "note": "Web検索と Wayback を調べましたが、freq の名前での開催記録は見つかっていません。関係者への確認が必要な期間です。"
+   "years": "2013–2015",
+   "note": "Web検索と Wayback を調べましたが、開催記録は見つかっていません。中村滋延のWebサイトには、freq（2007年以降は「音楽工房freq」）を2001〜15年に主宰したとあり、この期間にも開催があった可能性があります。"
+  },
+  {
+   "id": "2016",
+   "year": 2016,
+   "title": "freq coda〜プログラムが表現する音と映像〜（中村滋延教授退官記念講演会／中村研究室コンサート）",
+   "status": "確定",
+   "dates": "2016年3月19日（土）15:00〜18:00",
+   "venue": "九州大学大橋キャンパス 多次元デザイン実験棟ホール",
+   "credits": [
+    {
+     "role": "出演",
+     "names": [
+      "高橋尚吾",
+      "南部晃史・森脇ほのか",
+      "藤原尚紀",
+      "ヒガキトモナリ",
+      "新美太基",
+      "藤岡定",
+      "梶原祥平",
+      "山田祐嗣",
+      "渡辺圭介",
+      "堀尾寛太",
+      "城一裕",
+      "中村滋延"
+     ]
+    }
+   ],
+   "summary": "中村滋延教授の退官を記念した freq。中村滋延の最終講義「音楽と映像の融合」と、中村研究室の在学生・修了生らによるコンサートが行われました。",
+   "sections": [
+    {
+     "heading": "上演作品（判明分）",
+     "items": [
+      "ヒガキトモナリ《レントより遅く、ピアノより弱く》"
+     ]
+    }
+   ],
+   "note": "名称は「freq coda」「freq Coda」「Freq Coda」の表記があります。出演者は日本電子音楽協会の「2016年の電子音楽イベント」の記載によります。",
+   "unresolved": [
+    "プログラムの詳細（各出演者の作品名）"
+   ],
+   "sources": [
+    {
+     "label": "日本電子音楽協会「2016年の電子音楽イベント」",
+     "url": "https://jsem.sakura.ne.jp/jsemwp/?page_id=1547"
+    },
+    {
+     "label": "中村滋延「中村滋延最終講義『音楽と映像の融合』」",
+     "url": "http://nkmr1950.sakura.ne.jp/wp/2016/05/11/last_lecture/"
+    },
+    {
+     "label": "HIGAKI TOMONARI の告知",
+     "url": "https://www.musicircus.net/post/139706232199/"
+    }
+   ],
+   "wayback_paths": [],
+   "assets": [],
+   "archive": null
+  },
+  {
+   "id": "2017",
+   "year": 2017,
+   "title": "FREQ2017 ―マシンと音の自然な関係性",
+   "status": "確定",
+   "dates": "2017年3月25日 17:00〜19:30（16:30開場）",
+   "venue": "九州大学大橋キャンパス 音響特殊棟スタジオ（無料）",
+   "credits": [
+    {
+     "role": "主催",
+     "names": [
+      "九州大学芸術工学部 音響設計学科 城研究室"
+     ]
+    },
+    {
+     "role": "出演",
+     "names": [
+      "堀尾寛太（パフォーマンス・ディスカッション）",
+      "城一裕（ディスカッション）"
+     ]
+    }
+   ],
+   "summary": "中村滋延の退任にともない担い手を新たにした freq。前年の freq coda から1年ぶりの開催で、初期 freq の中心メンバーだった堀尾寛太（2004年修了）をゲストに迎え、ライブパフォーマンスとディスカッションを行いました。",
+   "sections": [],
+   "note": "情報はポスターによります。",
+   "unresolved": [],
+   "sources": [],
+   "wayback_paths": [],
+   "assets": [
+    {
+     "label": "ポスター",
+     "path": "assets/2017/freq2017_poster.jpg",
+     "image": true
+    },
+    {
+     "label": "ポスター（PDF）",
+     "path": "assets/2017/freq2017_poster.pdf"
+    }
+   ],
+   "archive": null
   },
   {
    "id": "2018",
@@ -871,8 +1170,33 @@
      ]
     }
    ],
-   "summary": "",
-   "sections": [],
+   "summary": "城研究室の学生による作品・研究の発表に加え、美術の中の音に焦点を当てた「日本美術サウンドアーカイヴ」の企画者である金子智太郎と、即興デュオの比嘉了＋すずえりをゲストに迎え、技術と美学の両面から、いまの音と音楽のあり方を示す展示・トーク・パフォーマンス。",
+   "sections": [
+    {
+     "heading": "スケジュール",
+     "items": [
+      "3月29日 14:00–18:00 展示（2F無響室／1F調整室）",
+      "3月30日 10:00–20:00 展示（2F無響室／1F調整室）",
+      "3月30日 17:00–18:00 トーク（前半）（1Fスタジオ）",
+      "3月30日 18:00–20:00 パフォーマンス（1Fスタジオ）",
+      "3月30日 20:00– トーク（後半）（1Fスタジオ）"
+     ]
+    },
+    {
+     "heading": "展示作品",
+     "items": [
+      "城一裕《断片化された音楽》（2014）",
+      "城一裕《月の光に：蓄音器のために—エドアード・レオン・スコットとモホイ＝ナジ・ラースローへ—》（1860/1923/2015）",
+      "松浦知也《Aphysical Unmodeling Instrument》（2018）",
+      "松浦知也《Solo Performance with Exidiophone》（2018）",
+      "Cycaq《Pure-Digital-Music》（2018）",
+      "谷川穂高《おけたー：oketur》（2018）",
+      "吉村帆生《ゔぉかりーず（未）》（2018）",
+      "帯屋健之《Multi-Sounds Fish Call》（2018）",
+      "清水久見《Gizmoviolon》（2018）"
+     ]
+    }
+   ],
    "unresolved": [],
    "sources": [
     {
@@ -881,7 +1205,70 @@
     }
    ],
    "wayback_paths": [],
-   "assets": [],
+   "assets": [
+    {
+     "label": "ポスター",
+     "path": "assets/2018/freq2018_poster.jpg",
+     "image": true
+    },
+    {
+     "label": "ポスター（PDF）",
+     "path": "assets/2018/freq2018_poster.pdf"
+    },
+    {
+     "label": "パンフレット（PDF）",
+     "path": "assets/2018/freq2018_pamphlet.pdf"
+    }
+   ],
+   "archive": null,
+   "note": "スケジュールと作品はパンフレットによります。科研費 若手研究（A）「ポストデジタル以降の音を生み出す構造の構築」（JP17H04772）の助成によるもの。"
+  },
+  {
+   "id": "181220",
+   "year": 2018,
+   "title": "freq x HardcoreAmbience",
+   "status": "確定",
+   "dates": "2018年12月20日 開場 18:00／開演 18:10／終演 21:00",
+   "venue": "九州大学大橋キャンパス 音響特殊棟（1F録音スタジオ・2F無響室・B1F残響室）",
+   "credits": [
+    {
+     "role": "出演",
+     "names": [
+      "monogs",
+      "nyantora + duenn",
+      "城一裕",
+      "日山豪",
+      "松浦知也",
+      "牟田春輝"
+     ]
+    }
+   ],
+   "summary": "nyantora と duenn によるアンビエント・イベント「Hardcore Ambience」との共同企画。録音スタジオ・無響室・残響室を会場に、ライブパフォーマンスを行いました。無響室と残響室の公演は入れ替え制でした。",
+   "sections": [
+    {
+     "heading": "タイムテーブル（A）",
+     "items": [
+      "18:10–18:40 monogs（1F録音スタジオ）",
+      "18:45–19:15 nyantora + duenn（2F無響室）",
+      "19:20–19:40 城一裕（1F録音スタジオ）",
+      "19:45–20:15 日山豪（1F録音スタジオ）",
+      "20:20–20:40 松浦知也（1F録音スタジオ）",
+      "20:45–21:00 牟田春輝（B1F残響室）"
+     ]
+    }
+   ],
+   "note": "タイムテーブルは A〜D の4種類があり、ここでは A を載せています。情報は当日のリーフレットによります。",
+   "unresolved": [
+    "主催・入場料"
+   ],
+   "sources": [],
+   "wayback_paths": [],
+   "assets": [
+    {
+     "label": "当日のリーフレット（PDF）",
+     "path": "assets/181220/freq181220_leaflet.pdf"
+    }
+   ],
    "archive": null
   },
   {
