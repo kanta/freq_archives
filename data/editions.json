@@ -69,6 +69,15 @@
    ],
    "assets": [
     {
+     "label": "フライヤー",
+     "path": "assets/2001/freq2001_flyer_front.jpg",
+     "image": true
+    },
+    {
+     "label": "フライヤー（PDF）",
+     "path": "assets/2001/freq2001_flyer.pdf"
+    },
+    {
      "label": "パンフレット（panfreq2001.pdf）",
      "path": "assets/2001/panfreq2001.pdf"
     },

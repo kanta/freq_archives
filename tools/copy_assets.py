@@ -4,7 +4,7 @@
 載せないもの:
   freq/2004/InterCollege2004.pdf  中村・栗原の連絡先を含むため、Wayback の記録へリンクする
 掲載を確認済み（古い連絡先で現在は使われていない可能性が高いと関係者が確認）:
-  freq01/panfreq2001.pdf, freq02/freq02_booklet.pdf
+  freq01/panfreq2001.pdf, freq01/freq2001_flyer.pdf, freq02/freq02_booklet.pdf
 連絡先が研究室の代表電話・Web のみのため掲載:
   freq_2011-2012/*.pdf（中村研究室の代表電話 092-553-4553）
   freq_after2017/freq181220_hardcoreambience_leaflet.pdf（連絡先なし）
@@ -39,6 +39,7 @@ n += 1
 cp(os.path.join(SN, "freq08mini.jpg"), os.path.join(A, "2008", "freq08mini.jpg"))
 n += 1
 for src, dst in ((os.path.join(PARENT, "freq01", "panfreq2001.pdf"), "2001/panfreq2001.pdf"),
+                 (os.path.join(PARENT, "freq01", "freq2001_flyer.pdf"), "2001/freq2001_flyer.pdf"),
                  (os.path.join(PARENT, "freq02", "freq02_booklet.pdf"), "2002/freq02_booklet.pdf")):
     cp(src, os.path.join(A, dst))
     n += 1
@@ -69,6 +70,7 @@ def cover(pdf, out_jpg):
         return 0
 
 
+n += cover("freq01/freq2001_flyer.pdf", "2001/freq2001_flyer_front.jpg")
 n += cover("freq_2011-2012/freq2011_flyer.pdf", "2011/freq2011_flyer_front.jpg")
 n += cover("freq_2011-2012/freq2012_flyer.pdf", "2012/freq2012_flyer_front.jpg")
 n += cover("freq_after2017/freq2017_poster.pdf", "2017/freq2017_poster.jpg")
