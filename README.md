@@ -6,7 +6,7 @@ freq（九州芸術工科大学／九州大学 中村滋延研究室・城一裕
 
 | パス | 内容 |
 |---|---|
-| `freq_list.md` | 全回の一覧と、各回の詳細（日時・会場・出演者・出典） |
+| `freq_list.md` | 全回の一覧と、各回の詳細（日時・会場・出演者・出典）。`data/editions.json` から `tools/export_list.py` で書き出したもの（直接編集しない） |
 | `sites/` | Wayback Machine から取得した当時のファイル（オリジナルのまま、ホスト名／パスごと） |
 | `sites/manifest.csv` | 取得したファイルごとの元URL・スナップショット日時・HTTPコード |
 | `cdx/` | Wayback CDX API で洗い出した、記録済みURLの一覧（JSON）と `summary.txt` |
@@ -15,6 +15,7 @@ freq（九州芸術工科大学／九州大学 中村滋延研究室・城一裕
 | `tools/build_archive.py` | 当時のWebサイトを加工して `docs/archive/<id>/` に出力（文字コード変換・個人情報削除・フォーム無効化・リンク書き換え・アーカイブ帯）。原本は変更しない |
 | `tools/fetch_missing.py` | `sites/` に無い画像などを Wayback の別URL・別日時から補完し、取得できなかったものを `data/missing_report.txt` に記録 |
 | `tools/copy_assets.py` | 公開する写真・資料を `docs/assets/` にコピー（載せない資料の理由もここに記載） |
+| `tools/export_list.py` | `data/editions.json` から `freq_list.md` を書き出す（`python3 tools/export_list.py`） |
 | `tools/verify.py` | `docs/` の検証（リンク切れ・個人情報・文字コード・文字化け） |
 | `data/editions.json` | 各回のデータ。**正本**。追記・訂正はここに行う |
 | `data/wayback_manifest.csv` | `sites/manifest.csv` の控え（出典URL生成用。個人情報なし） |
@@ -37,7 +38,7 @@ freq（九州芸術工科大学／九州大学 中村滋延研究室・城一裕
 ### 手順
 
 1. `data/editions.json` の該当する回を編集する（新しい回は `editions` 配列に、年代順の位置へ追加）。
-2. `python3 tools/build.py` を実行して `docs/` を再生成する（Python 3 の標準ライブラリだけで動きます）。
+2. `python3 tools/build.py` を実行して `docs/` を再生成し、`python3 tools/export_list.py` で `freq_list.md` も更新する（どちらも Python 3 の標準ライブラリだけで動きます）。
 3. `python3 tools/verify.py` を実行して、リンク切れ・個人情報・文字化けがないことを確認する。
 4. `data/` と `docs/` の変更を、まとめて1つのブランチでコミットし、プルリクエストを出す（直接 `main` に push しても構いません）。
 5. 公開後に https://kanta.github.io/freq_archives/ で表示を確認する。
